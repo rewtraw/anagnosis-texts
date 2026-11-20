@@ -1,0 +1,552 @@
+{
+ "profile": "PROFILE.md",
+ "editions": [
+  {
+   "edition": "loeb.eng",
+   "name": "Loeb (1914–35)",
+   "group": "Plato",
+   "language": "en",
+   "translator": "H. N. Fowler, W. R. M. Lamb, R. G. Bury, P. Shorey",
+   "year": 1925,
+   "original": false,
+   "licence": "CC BY-SA 4.0",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Alcibiades 1",
+   "sections": 8548,
+   "works": [
+    {
+     "work": "alcibiades-1",
+     "title": "Alcibiades 1",
+     "file": "texts/plato-loeb/alcibiades-1.usfm"
+    },
+    {
+     "work": "alcibiades-2",
+     "title": "Alcibiades 2",
+     "file": "texts/plato-loeb/alcibiades-2.usfm"
+    },
+    {
+     "work": "apology",
+     "title": "Apology",
+     "file": "texts/plato-loeb/apology.usfm"
+    },
+    {
+     "work": "charmides",
+     "title": "Charmides",
+     "file": "texts/plato-loeb/charmides.usfm"
+    },
+    {
+     "work": "cleitophon",
+     "title": "Cleitophon",
+     "file": "texts/plato-loeb/cleitophon.usfm"
+    },
+    {
+     "work": "cratylus",
+     "title": "Cratylus",
+     "file": "texts/plato-loeb/cratylus.usfm"
+    },
+    {
+     "work": "critias",
+     "title": "Critias",
+     "file": "texts/plato-loeb/critias.usfm"
+    },
+    {
+     "work": "crito",
+     "title": "Crito",
+     "file": "texts/plato-loeb/crito.usfm"
+    },
+    {
+     "work": "epinomis",
+     "title": "Epinomis",
+     "file": "texts/plato-loeb/epinomis.usfm"
+    },
+    {
+     "work": "euthydemus",
+     "title": "Euthydemus",
+     "file": "texts/plato-loeb/euthydemus.usfm"
+    },
+    {
+     "work": "euthyphro",
+     "title": "Euthyphro",
+     "file": "texts/plato-loeb/euthyphro.usfm"
+    },
+    {
+     "work": "gorgias",
+     "title": "Gorgias",
+     "file": "texts/plato-loeb/gorgias.usfm"
+    },
+    {
+     "work": "greater-hippias",
+     "title": "Greater Hippias",
+     "file": "texts/plato-loeb/greater-hippias.usfm"
+    },
+    {
+     "work": "hipparchus",
+     "title": "Hipparchus",
+     "file": "texts/plato-loeb/hipparchus.usfm"
+    },
+    {
+     "work": "ion",
+     "title": "Ion",
+     "file": "texts/plato-loeb/ion.usfm"
+    },
+    {
+     "work": "laches",
+     "title": "Laches",
+     "file": "texts/plato-loeb/laches.usfm"
+    },
+    {
+     "work": "laws",
+     "title": "Laws",
+     "file": "texts/plato-loeb/laws.usfm"
+    },
+    {
+     "work": "lesser-hippias",
+     "title": "Lesser Hippias",
+     "file": "texts/plato-loeb/lesser-hippias.usfm"
+    },
+    {
+     "work": "letters",
+     "title": "Letters",
+     "file": "texts/plato-loeb/letters.usfm"
+    },
+    {
+     "work": "lovers",
+     "title": "Lovers",
+     "file": "texts/plato-loeb/lovers.usfm"
+    },
+    {
+     "work": "lysis",
+     "title": "Lysis",
+     "file": "texts/plato-loeb/lysis.usfm"
+    },
+    {
+     "work": "menexenus",
+     "title": "Menexenus",
+     "file": "texts/plato-loeb/menexenus.usfm"
+    },
+    {
+     "work": "meno",
+     "title": "Meno",
+     "file": "texts/plato-loeb/meno.usfm"
+    },
+    {
+     "work": "minos",
+     "title": "Minos",
+     "file": "texts/plato-loeb/minos.usfm"
+    },
+    {
+     "work": "parmenides",
+     "title": "Parmenides",
+     "file": "texts/plato-loeb/parmenides.usfm"
+    },
+    {
+     "work": "phaedo",
+     "title": "Phaedo",
+     "file": "texts/plato-loeb/phaedo.usfm"
+    },
+    {
+     "work": "phaedrus",
+     "title": "Phaedrus",
+     "file": "texts/plato-loeb/phaedrus.usfm"
+    },
+    {
+     "work": "philebus",
+     "title": "Philebus",
+     "file": "texts/plato-loeb/philebus.usfm"
+    },
+    {
+     "work": "protagoras",
+     "title": "Protagoras",
+     "file": "texts/plato-loeb/protagoras.usfm"
+    },
+    {
+     "work": "republic",
+     "title": "Republic",
+     "file": "texts/plato-loeb/republic.usfm"
+    },
+    {
+     "work": "sophist",
+     "title": "Sophist",
+     "file": "texts/plato-loeb/sophist.usfm"
+    },
+    {
+     "work": "statesman",
+     "title": "Statesman",
+     "file": "texts/plato-loeb/statesman.usfm"
+    },
+    {
+     "work": "symposium",
+     "title": "Symposium",
+     "file": "texts/plato-loeb/symposium.usfm"
+    },
+    {
+     "work": "theaetetus",
+     "title": "Theaetetus",
+     "file": "texts/plato-loeb/theaetetus.usfm"
+    },
+    {
+     "work": "theages",
+     "title": "Theages",
+     "file": "texts/plato-loeb/theages.usfm"
+    },
+    {
+     "work": "timaeus",
+     "title": "Timaeus",
+     "file": "texts/plato-loeb/timaeus.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "burnet.grc",
+   "name": "Greek (Burnet)",
+   "group": "Plato",
+   "language": "grc",
+   "translator": null,
+   "year": 1905,
+   "original": true,
+   "licence": "CC BY-SA 4.0",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Alcibiades 1",
+   "sections": 8552,
+   "annotated_words": 560491,
+   "works": [
+    {
+     "work": "alcibiades-1",
+     "title": "Alcibiades 1",
+     "file": "texts/plato-burnet/alcibiades-1.usfm"
+    },
+    {
+     "work": "alcibiades-2",
+     "title": "Alcibiades 2",
+     "file": "texts/plato-burnet/alcibiades-2.usfm"
+    },
+    {
+     "work": "apology",
+     "title": "Apology",
+     "file": "texts/plato-burnet/apology.usfm"
+    },
+    {
+     "work": "charmides",
+     "title": "Charmides",
+     "file": "texts/plato-burnet/charmides.usfm"
+    },
+    {
+     "work": "cleitophon",
+     "title": "Cleitophon",
+     "file": "texts/plato-burnet/cleitophon.usfm"
+    },
+    {
+     "work": "cratylus",
+     "title": "Cratylus",
+     "file": "texts/plato-burnet/cratylus.usfm"
+    },
+    {
+     "work": "critias",
+     "title": "Critias",
+     "file": "texts/plato-burnet/critias.usfm"
+    },
+    {
+     "work": "crito",
+     "title": "Crito",
+     "file": "texts/plato-burnet/crito.usfm"
+    },
+    {
+     "work": "epinomis",
+     "title": "Epinomis",
+     "file": "texts/plato-burnet/epinomis.usfm"
+    },
+    {
+     "work": "euthydemus",
+     "title": "Euthydemus",
+     "file": "texts/plato-burnet/euthydemus.usfm"
+    },
+    {
+     "work": "euthyphro",
+     "title": "Euthyphro",
+     "file": "texts/plato-burnet/euthyphro.usfm"
+    },
+    {
+     "work": "gorgias",
+     "title": "Gorgias",
+     "file": "texts/plato-burnet/gorgias.usfm"
+    },
+    {
+     "work": "greater-hippias",
+     "title": "Greater Hippias",
+     "file": "texts/plato-burnet/greater-hippias.usfm"
+    },
+    {
+     "work": "hipparchus",
+     "title": "Hipparchus",
+     "file": "texts/plato-burnet/hipparchus.usfm"
+    },
+    {
+     "work": "ion",
+     "title": "Ion",
+     "file": "texts/plato-burnet/ion.usfm"
+    },
+    {
+     "work": "laches",
+     "title": "Laches",
+     "file": "texts/plato-burnet/laches.usfm"
+    },
+    {
+     "work": "laws",
+     "title": "Laws",
+     "file": "texts/plato-burnet/laws.usfm"
+    },
+    {
+     "work": "lesser-hippias",
+     "title": "Lesser Hippias",
+     "file": "texts/plato-burnet/lesser-hippias.usfm"
+    },
+    {
+     "work": "letters",
+     "title": "Letters",
+     "file": "texts/plato-burnet/letters.usfm"
+    },
+    {
+     "work": "lovers",
+     "title": "Lovers",
+     "file": "texts/plato-burnet/lovers.usfm"
+    },
+    {
+     "work": "lysis",
+     "title": "Lysis",
+     "file": "texts/plato-burnet/lysis.usfm"
+    },
+    {
+     "work": "menexenus",
+     "title": "Menexenus",
+     "file": "texts/plato-burnet/menexenus.usfm"
+    },
+    {
+     "work": "meno",
+     "title": "Meno",
+     "file": "texts/plato-burnet/meno.usfm"
+    },
+    {
+     "work": "minos",
+     "title": "Minos",
+     "file": "texts/plato-burnet/minos.usfm"
+    },
+    {
+     "work": "parmenides",
+     "title": "Parmenides",
+     "file": "texts/plato-burnet/parmenides.usfm"
+    },
+    {
+     "work": "phaedo",
+     "title": "Phaedo",
+     "file": "texts/plato-burnet/phaedo.usfm"
+    },
+    {
+     "work": "phaedrus",
+     "title": "Phaedrus",
+     "file": "texts/plato-burnet/phaedrus.usfm"
+    },
+    {
+     "work": "philebus",
+     "title": "Philebus",
+     "file": "texts/plato-burnet/philebus.usfm"
+    },
+    {
+     "work": "protagoras",
+     "title": "Protagoras",
+     "file": "texts/plato-burnet/protagoras.usfm"
+    },
+    {
+     "work": "republic",
+     "title": "Republic",
+     "file": "texts/plato-burnet/republic.usfm"
+    },
+    {
+     "work": "sophist",
+     "title": "Sophist",
+     "file": "texts/plato-burnet/sophist.usfm"
+    },
+    {
+     "work": "statesman",
+     "title": "Statesman",
+     "file": "texts/plato-burnet/statesman.usfm"
+    },
+    {
+     "work": "symposium",
+     "title": "Symposium",
+     "file": "texts/plato-burnet/symposium.usfm"
+    },
+    {
+     "work": "theaetetus",
+     "title": "Theaetetus",
+     "file": "texts/plato-burnet/theaetetus.usfm"
+    },
+    {
+     "work": "theages",
+     "title": "Theages",
+     "file": "texts/plato-burnet/theages.usfm"
+    },
+    {
+     "work": "timaeus",
+     "title": "Timaeus",
+     "file": "texts/plato-burnet/timaeus.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "besant.en",
+   "name": "Besant (1922)",
+   "group": "Bhagavad Gita",
+   "language": "en",
+   "translator": "Annie Besant",
+   "year": 1922,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "sections": 701,
+   "works": [
+    {
+     "work": "bhagavad-gita",
+     "title": "Bhagavad Gita",
+     "file": "texts/gita-besant/bhagavad-gita.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "gita.sa",
+   "name": "Sanskrit",
+   "group": "Bhagavad Gita",
+   "language": "sa",
+   "translator": null,
+   "year": 1922,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "sections": 701,
+   "works": [
+    {
+     "work": "bhagavad-gita",
+     "title": "Bhagavad Gita",
+     "file": "texts/gita-sanskrit/bhagavad-gita.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "longfellow.en",
+   "name": "Longfellow (1867)",
+   "group": "Dante, Divine Comedy",
+   "language": "en",
+   "translator": "Henry Wadsworth Longfellow",
+   "year": 1867,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 1004, https://www.gutenberg.org/ebooks/1004",
+   "sections": 14233,
+   "works": [
+    {
+     "work": "inferno",
+     "title": "Inferno",
+     "file": "texts/dante-longfellow/inferno.usfm"
+    },
+    {
+     "work": "paradiso",
+     "title": "Paradiso",
+     "file": "texts/dante-longfellow/paradiso.usfm"
+    },
+    {
+     "work": "purgatorio",
+     "title": "Purgatorio",
+     "file": "texts/dante-longfellow/purgatorio.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "dante.it",
+   "name": "Italian",
+   "group": "Dante, Divine Comedy",
+   "language": "it",
+   "translator": null,
+   "year": 1321,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 1012, https://www.gutenberg.org/ebooks/1012",
+   "sections": 14233,
+   "works": [
+    {
+     "work": "inferno",
+     "title": "Inferno",
+     "file": "texts/dante-italian/inferno.usfm"
+    },
+    {
+     "work": "paradiso",
+     "title": "Paradiso",
+     "file": "texts/dante-italian/paradiso.usfm"
+    },
+    {
+     "work": "purgatorio",
+     "title": "Purgatorio",
+     "file": "texts/dante-italian/purgatorio.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "mead1906.en",
+   "name": "Mead (1906)",
+   "group": "Corpus Hermeticum and Asclepius",
+   "language": "en",
+   "translator": "G. R. S. Mead",
+   "year": 1906,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "G. R. S. Mead, Thrice-Greatest Hermes, vol. II (London, 1906); archive.org thricegreatesthe02hermuoft (OCR, corrected)",
+   "sections": 275,
+   "works": [
+    {
+     "work": "asclepius",
+     "title": "Asclepius",
+     "file": "texts/hermetica-mead/asclepius.usfm"
+    },
+    {
+     "work": "ch",
+     "title": "Corpus Hermeticum",
+     "file": "texts/hermetica-mead/ch.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "legge.en",
+   "name": "Legge (1891)",
+   "group": "Tao Te Ching",
+   "language": "en",
+   "translator": "James Legge",
+   "year": 1891,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 216 (James Legge, The Tao Teh King, 1891)",
+   "sections": 81,
+   "works": [
+    {
+     "work": "tao-te-ching",
+     "title": "Tao Te Ching",
+     "file": "texts/chinese-legge/tao-te-ching.usfm"
+    }
+   ]
+  },
+  {
+   "edition": "wangbi.lzh",
+   "name": "Chinese (Wang Bi)",
+   "group": "Tao Te Ching",
+   "language": "lzh",
+   "translator": null,
+   "year": 249,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikisource (zh), 道德經 (王弼本), with Wang Bi's commentary as notes",
+   "sections": 81,
+   "works": [
+    {
+     "work": "tao-te-ching",
+     "title": "Tao Te Ching",
+     "file": "texts/chinese-wangbi/tao-te-ching.usfm"
+    }
+   ]
+  }
+ ]
+}

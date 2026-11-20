@@ -1,0 +1,7 @@
+{
+  "name": "anagnosis-texts",
+  "private": true,
+  "type": "module",
+  "scripts": { "validate": "node tools/validate.mjs", "check": "python3 tools/check.py" },
+  "devDependencies": { "usfm-grammar": "3.2.3" }
+}
