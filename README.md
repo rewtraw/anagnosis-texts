@@ -1,8 +1,8 @@
 # Anagnosis texts
 
 Classic texts in plain, structured, open USFM: each with its speakers, verse, quotations and its edition's own
-notes marked, and with its original language beside it. Plato's Greek also has every word's lemma and parsing,
-and every Plato file is addressed by its Perseus CTS URN.
+notes marked, and with its original language beside it. The Greek of Plato and Plotinus has every word's lemma and
+parsing; Plotinus's quotations of Plato carry their source (a CTS URN); and every file has a CTS URN of its own.
 
 These are the open editions behind [Anagnosis](https://anagnosis.sh), a reader of scripture and the
 traditions around it. They are published here so that anyone can read them, build on them or correct them.
@@ -20,6 +20,8 @@ traditions around it. They are published here so that anyone can read them, buil
 | Corpus Hermeticum and Asclepius | Mead (1906) | English | 2 | 275 | [hermetica-mead](texts/hermetica-mead) | Public domain text; markup CC0 1.0 |
 | Tao Te Ching | Legge (1891) | English | 1 | 81 | [chinese-legge](texts/chinese-legge) | Public domain text; markup CC0 1.0 |
 | Tao Te Ching | Chinese (Wang Bi) | Classical Chinese | 1 | 81 | [chinese-wangbi](texts/chinese-wangbi) | Public domain text; markup CC0 1.0 |
+| Plotinus, Enneads | MacKenna | English | 1 | 650 | [greek-plotinus-mackenna](texts/greek-plotinus-mackenna) | Public domain in the US; markup CC0 1.0 |
+| Plotinus, Enneads | Greek (Volkmann) | Greek | 1 | 653 | [greek-plotinus-volkmann](texts/greek-plotinus-volkmann) | CC BY-SA 4.0 |
 
 ## Why USFM
 

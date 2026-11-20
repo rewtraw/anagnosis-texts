@@ -7,7 +7,10 @@ The texts here are in the public domain. Their encodings differ, and each file's
   lemma and parsing, from [GLAUx](https://github.com/alekkeersmaekers/glaux) (Keersmaekers 2021). Both are
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and so are these files. The Loeb translations
   (1914–35) are in the public domain in the United States.
-- **Everything else** (`texts/gita-*`, `texts/dante-*`, `texts/hermetica-mead`, `texts/chinese-*`): the texts are
+- **Plotinus, Volkmann's Greek** (`texts/greek-plotinus-volkmann`): from First1KGreek's TEI (Perseus encoding) and
+  GLAUx's lemmas, both CC BY-SA 4.0, and so are these files.
+- **Everything else** (`texts/gita-*`, `texts/dante-*`, `texts/hermetica-mead`, `texts/chinese-*`, `texts/greek-plotinus-mackenna`;
+  MacKenna's translation is in the public domain in the US): the texts are
   in the public domain. The markup added here (speakers, verse, notes placed in the text, corrections) is dedicated
   to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 - **The tools** (`tools/`): CC0 1.0.

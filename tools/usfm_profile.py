@@ -5,7 +5,7 @@ the same text and marks, or the converter fails (a lossless round trip is the pr
 A section is its printed reference ("172a"), its text (the edition's words, paragraphs "\\n\\n", lines "\\n"), and
 its marks, each [kind, start, end, data] over the text:
   sp  a speaker's label in the text ("Ap."), data the speaker ("Apollodorus")
-  q   a quotation from another text, inline                    \\qt …\\qt*
+  q   a quotation from another text, inline, data its source   \\qt …\\qt*\\rq urn\\rq*
   qm  verse quoted within prose, a block of lines              \\qm1 per line
   tl  a word left in its own language                          \\tl …\\tl*
   f   a note at a point (start == end), data its text          \\f + \\fr ref \\ft …\\f*
@@ -52,7 +52,9 @@ def section_usfm(ref, text, marks):
         elif kind in CHAR:
             p = plus(kind, start, end)
             opens.setdefault(start, []).append(CHAR[kind][0].replace("\\", "\\" + p))
-            closes.setdefault(end, []).insert(0, CHAR[kind][1].replace("\\", "\\" + p))
+            # A quotation's source, where known: \\rq after it (a CTS URN: "urn:cts:greekLit:tlg0059.tlg031.perseus-grc2:37d").
+            source = f"\\rq {data[0]}\\rq*" if kind == "q" and data and data[0] else ""
+            closes.setdefault(end, []).insert(0, CHAR[kind][1].replace("\\", "\\" + p) + source)
     verse = [(s, e) for k, s, e, *_ in marks if k == "qm"]
     in_verse = lambda i: any(s <= i < e for s, e in verse)
     out, i = [], 0
@@ -71,7 +73,7 @@ def section_usfm(ref, text, marks):
 
 
 _TOKEN = re.compile(r'\\zsay-s \|who="(?P<say>[^"]*)"\\\*|\\zsay-e\\\*|\\zqm-s\\\*|\\zqm-e\\\*|\n\\p |\n\\qm1 |\n\\q1 '
-                    r'|\\\+?qt\*|\\\+?qt |\\\+?tl\*|\\\+?tl |\\zsp |\|who="(?P<sp>[^"]*)"\\zsp\*|\\\+?w |\|lemma="(?P<lemma>[^"]*)" x-morph="(?P<morph>[^"]*)"\\\+?w\*'
+                    r'|\\\+?qt\*\\rq (?P<rq>[^\\]+)\\rq\*|\\\+?qt\*|\\\+?qt |\\\+?tl\*|\\\+?tl |\\zsp |\|who="(?P<sp>[^"]*)"\\zsp\*|\\\+?w |\|lemma="(?P<lemma>[^"]*)" x-morph="(?P<morph>[^"]*)"\\\+?w\*'
                     r'|\\f \+ \\fr [^\\]*\\ft (?P<note>.*?)\\f\*', re.S)
 ORDER = lambda m: (m[1], m[2], m[0])
 
@@ -102,6 +104,8 @@ def read_section(body):
             text.append("\n"); at += 1
         elif tok in ("\\qt ", "\\tl ", "\\zsp ", "\\w "):
             stack.append((tok, at))
+        elif m.group("rq") is not None:
+            marks.append(["q", close("\\qt ")[1], at, m.group("rq")])
         elif tok in ("\\qt*", "\\tl*"):
             kind = "q" if tok == "\\qt*" else "tl"
             marks.append([kind, close(CHAR[kind][0])[1], at])

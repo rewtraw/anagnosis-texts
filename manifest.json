@@ -751,6 +751,50 @@
      "cite": "vp"
     }
    ]
+  },
+  {
+   "edition": "mackenna.en",
+   "name": "MacKenna",
+   "group": "Plotinus, Enneads",
+   "language": "en",
+   "translator": "Stephen MacKenna",
+   "year": 1930,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Wikisource, Plotinus (MacKenna), from the Medici Society edition (1917–1930)",
+   "sections": 650,
+   "works": [
+    {
+     "work": "enneads",
+     "title": "Enneads",
+     "file": "texts/greek-plotinus-mackenna/enneads.usfm",
+     "urn": "urn:cts:greekLit:tlg2000.tlg001.anagnosis-mackenna-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "volkmann.grc",
+   "name": "Greek (Volkmann)",
+   "group": "Plotinus, Enneads",
+   "language": "grc",
+   "translator": null,
+   "year": 1884,
+   "original": true,
+   "licence": "CC BY-SA 4.0",
+   "source": "github.com/OpenGreekAndLatin/First1KGreek (tlg2000.tlg001)",
+   "sections": 653,
+   "annotated_words": 212793,
+   "works": [
+    {
+     "work": "enneads",
+     "title": "Enneads",
+     "file": "texts/greek-plotinus-volkmann/enneads.usfm",
+     "urn": "urn:cts:greekLit:tlg2000.tlg001.1st1K-grc1",
+     "cite": "cp.vp",
+     "words": "texts/greek-plotinus-volkmann/words/enneads.tsv"
+    }
+   ]
   }
  ]
 }

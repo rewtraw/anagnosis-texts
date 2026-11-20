@@ -52,7 +52,7 @@ One file per edition of a work:
 | A speaker's label in the text (Plato's "SOC.", the Gita's "Arjuna said:") | `\zsp SOC.\|who="Socrates"\zsp*` |
 | A speech, from its first word to its last (Plato's, from Perseus's `<said>`; Dante's “…”) | `\zsay-s \|who="Socrates"\*` … `\zsay-e\*` |
 | Verse or a hymn set off within prose (Homer in Plato; the Hermetic hymns) | `\zqm-s\*` … `\zqm-e\*`, lines as `\qm1` |
-| A quotation | `\qt …\qt*` |
+| A quotation; with its source, a CTS URN (Plotinus quoting Plato) | `\qt …\qt*`, `\qt …\qt*\rq urn:cts:greekLit:tlg0059.tlg012.perseus-grc2:246b\rq*` |
 | A word left in its own language | `\tl …\tl*` |
 | The edition's own note (Loeb's, Besant's, Wang Bi's commentary) | `\f + \fr 174b \ft …\f*` |
 
@@ -64,7 +64,8 @@ Loeb's are). Plato and Dante have speeches; Mead and the Gita have their printed
 
 ## Words of an original: beside the text, not in it
 
-The original's word-level data is kept out of the USFM, in a sidecar per work (`texts/plato-burnet/words/<work>.tsv`),
+The original's word-level data is kept out of the USFM, in a sidecar per work (`texts/plato-burnet/words/<work>.tsv`,
+`texts/greek-plotinus-volkmann/words/enneads.tsv`),
 so the text stays clean to read, to correct, and to diff:
 
 ```
