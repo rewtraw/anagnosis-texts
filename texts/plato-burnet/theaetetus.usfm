@@ -2,8 +2,8 @@
 \usfm 3.1
 \ide UTF-8
 \rem anagnosis work=theaetetus edition=burnet.grc lang=grc urn=urn:cts:greekLit:tlg0059.tlg006.perseus-grc2 cite=vp
-\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Theaetetus
-\rem rights Public domain text; encoding CC BY-SA 4.0
+\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), github.com/PerseusDL/canonical-greekLit, CC BY-SA 4.0
+\rem rights Public domain; encoding CC BY-SA 4.0 (Perseus Digital Library)
 \rem note Each word's lemma and parsing is in words/theaetetus.tsv, from GLAUx (Keersmaekers 2021, github.com/alekkeersmaekers/glaux, CC BY-SA 4.0), annotated automatically.
 \h Theaetetus
 \toc1 Theaetetus

@@ -2,8 +2,8 @@
 \usfm 3.1
 \ide UTF-8
 \rem anagnosis work=enneads edition=volkmann.grc lang=grc urn=urn:cts:greekLit:tlg2000.tlg001.1st1K-grc1 cite=cp.vp
-\rem source First1KGreek tlg2000.tlg001.1st1K-grc1 (Volkmann's Teubner, 1883–84), CC BY-SA 4.0
-\rem rights Public domain text; encoding CC BY-SA 4.0
+\rem source First1KGreek tlg2000.tlg001.1st1K-grc1 (Volkmann's Teubner, 1883–84), github.com/OpenGreekAndLatin/First1KGreek
+\rem rights Public domain; encoding CC BY-SA 4.0 (First1KGreek)
 \rem note Volkmann's deletions are in his square brackets. Each word's lemma and parsing is in words/enneads.tsv, from GLAUx (Keersmaekers 2021, CC BY-SA 4.0), annotated automatically.
 \rem note Quotations of Plato with a source (rq, a CTS URN) were found by matching runs of the same lemmas in both authors (data/plotinus_quotes.py): quotations and close echoes, not an index of every reference.
 \h Enneads

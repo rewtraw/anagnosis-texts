@@ -1,9 +1,9 @@
 \id XXA euthydemus
 \usfm 3.1
 \ide UTF-8
-\rem anagnosis work=euthydemus edition=loeb.eng lang=en urn=urn:cts:greekLit:tlg0059.tlg021.perseus-eng2 cite=vp
-\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Euthydemus
-\rem rights Translation public domain in the US; encoding CC BY-SA 4.0
+\rem anagnosis work=euthydemus edition=loeb.en lang=en urn=urn:cts:greekLit:tlg0059.tlg021.perseus-eng2 cite=vp
+\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), github.com/PerseusDL/canonical-greekLit, CC BY-SA 4.0
+\rem rights Translations public domain in the US; encoding CC BY-SA 4.0 (Perseus Digital Library)
 \h Euthydemus
 \toc1 Euthydemus
 \mt1 Euthydemus

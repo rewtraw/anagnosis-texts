@@ -1,9 +1,9 @@
 \id XXA epinomis
 \usfm 3.1
 \ide UTF-8
-\rem anagnosis work=epinomis edition=loeb.eng lang=en urn=urn:cts:greekLit:tlg0059.tlg035.perseus-eng2 cite=vp
-\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Epinomis
-\rem rights Translation public domain in the US; encoding CC BY-SA 4.0
+\rem anagnosis work=epinomis edition=loeb.en lang=en urn=urn:cts:greekLit:tlg0059.tlg035.perseus-eng2 cite=vp
+\rem source Perseus Digital Library (https://www.perseus.tufts.edu/), github.com/PerseusDL/canonical-greekLit, CC BY-SA 4.0
+\rem rights Translations public domain in the US; encoding CC BY-SA 4.0 (Perseus Digital Library)
 \h Epinomis
 \toc1 Epinomis
 \mt1 Epinomis

@@ -16,7 +16,7 @@ One file per edition of a work:
 \id XXA symposium
 \usfm 3.1
 \ide UTF-8
-\rem anagnosis work=symposium edition=loeb.eng lang=en urn=urn:cts:greekLit:tlg0059.tlg011.perseus-eng2 cite=vp
+\rem anagnosis work=symposium edition=loeb.en lang=en urn=urn:cts:greekLit:tlg0059.tlg011.perseus-eng2 cite=vp
 \rem source Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Symposium
 \rem rights Translation public domain in the US; encoding CC BY-SA 4.0
 \h Symposium

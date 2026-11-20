@@ -2,7 +2,7 @@
  "profile": "PROFILE.md",
  "editions": [
   {
-   "edition": "loeb.eng",
+   "edition": "loeb.en",
    "name": "Loeb (1914–35)",
    "group": "Plato",
    "language": "en",
@@ -10,7 +10,7 @@
    "year": 1925,
    "original": false,
    "licence": "CC BY-SA 4.0",
-   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; github.com/PerseusDL/canonical-greekLit",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), github.com/PerseusDL/canonical-greekLit, CC BY-SA 4.0",
    "sections": 8548,
    "works": [
     {
@@ -276,7 +276,7 @@
    "year": 1905,
    "original": true,
    "licence": "CC BY-SA 4.0",
-   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; github.com/PerseusDL/canonical-greekLit",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), github.com/PerseusDL/canonical-greekLit, CC BY-SA 4.0",
    "sections": 8552,
    "annotated_words": 560474,
    "works": [
@@ -579,7 +579,7 @@
    "year": 1922,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
    "sections": 701,
    "works": [
     {
@@ -600,7 +600,7 @@
    "year": 1922,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
    "sections": 701,
    "works": [
     {
@@ -621,7 +621,7 @@
    "year": 1867,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "https://www.gutenberg.org/ebooks/1004",
+   "source": "Project Gutenberg 1004, https://www.gutenberg.org/ebooks/1004",
    "sections": 14233,
    "works": [
     {
@@ -656,7 +656,7 @@
    "year": 1321,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "https://www.gutenberg.org/ebooks/1012",
+   "source": "Project Gutenberg 1012, https://www.gutenberg.org/ebooks/1012",
    "sections": 14233,
    "works": [
     {
@@ -691,7 +691,7 @@
    "year": 1906,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Thrice-Greatest Hermes, vol. II (London, 1906), archive.org thricegreatesthe02hermuoft; OCR, corrected",
+   "source": "G. R. S. Mead, Thrice-Greatest Hermes, vol. II (London, 1906); archive.org thricegreatesthe02hermuoft (OCR, corrected)",
    "sections": 275,
    "works": [
     {
@@ -719,7 +719,7 @@
    "year": 1891,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Project Gutenberg 216 (The Tao Teh King, Sacred Books of the East 39)",
+   "source": "Project Gutenberg 216 (James Legge, The Tao Teh King, Sacred Books of the East 39, 1891)",
    "sections": 81,
    "works": [
     {
@@ -740,7 +740,7 @@
    "year": 249,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Wikisource (zh), 道德經 (王弼本)",
+   "source": "Wikisource (zh), 道德經 (王弼本), with Wang Bi's commentary as notes",
    "sections": 81,
    "works": [
     {
@@ -782,7 +782,7 @@
    "year": 1884,
    "original": true,
    "licence": "CC BY-SA 4.0",
-   "source": "github.com/OpenGreekAndLatin/First1KGreek (tlg2000.tlg001)",
+   "source": "First1KGreek tlg2000.tlg001.1st1K-grc1 (Volkmann's Teubner, 1883–84), github.com/OpenGreekAndLatin/First1KGreek",
    "sections": 653,
    "annotated_words": 212793,
    "works": [
