@@ -4,35 +4,35 @@
 \rem anagnosis work=asclepius edition=mead1906.en lang=en urn=urn:cts:anagnosis:hermetica.asclepius.mead-eng cite=vp
 \rem source G. R. S. Mead, Thrice-Greatest Hermes, vol. II (London, 1906); archive.org thricegreatesthe02hermuoft (OCR, corrected)
 \rem rights Public domain (G. R. S. Mead, 1906)
-\rem note The speakers' labels are Mead's; which passages are hymns (zqm) is an editorial annotation.
+\rem note The speakers' labels are Mead's; each speech runs from its label to the next, and which passages are hymns (zqm) is an editorial annotation.
 \rem note Mead's footnotes are not included: the scan's are unreadable.
 \h Asclepius
 \toc1 Asclepius
 \mt1 Asclepius
 \c 1
 \p
-\v 1 \vp 1\vp* \zsp [Tris.]|who="Hermes"\zsp* God, O Asclepius, hath brought thee unto us that thou mayest hear a Godly sermon, a sermon such as well may seem of all the previous ones we've [either] uttered, or with which we've been inspired by the Divine, more Godly than the piety of [ordinary] faith.
+\v 1 \vp 1\vp* \zsay-s |who="Hermes"\*\zsp [Tris.]|who="Hermes"\zsp* God, O Asclepius, hath brought thee unto us that thou mayest hear a Godly sermon, a sermon such as well may seem of all the previous ones we've [either] uttered, or with which we've been inspired by the Divine, more Godly than the piety of [ordinary] faith.
 \p If thou with eye of intellect shalt see this Word thou shalt in thy whole mind be filled quite full of all things good.
 \p If that, indeed, the “many” be the “good,” and not the “one,” in which are “all.” Indeed the difference between the two is found in their agreement,—“All” is of “One” or “One” is “All.” So closely bound is each to other, that neither can be parted from its mate.
 \p But this with diligent attention shalt thou learn from out the sermon that shall follow [this].
 \p But do thou, O Asclepius, go forth a moment and call in the one who is to hear.
-\p (And when he had come in, Asclepius proposed that Ammon too should be allowed to come. Thereon Thrice-greatest said:)
-\p \zsp [Tris.]|who="Hermes"\zsp* There is no cause why Ammon should be kept away from us. For we remember how we have ourselves set down in writing many things to his address, as though unto a son most dear and most beloved, of physics many things, of ethics [too] as many as could be.
+\p (And when he had come in, Asclepius proposed that Ammon too should be allowed to come. Thereon Thrice-greatest said:)\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp [Tris.]|who="Hermes"\zsp* There is no cause why Ammon should be kept away from us. For we remember how we have ourselves set down in writing many things to his address, as though unto a son most dear and most beloved, of physics many things, of ethics [too] as many as could be.
 \p It is, however, with thy name I will inscribe this treatise.
 \p But call, I prithee, no one else but Ammon, lest a most pious sermon on a so great theme be spoilt by the admission of the multitude.
 \p For 'tis the mark of an unpious mind to publish to the knowledge of the crowd a tractate brimming o'er with the full Greatness of Divinity.
-\p (When Ammon too had come within the holy place, and when the sacred group of four was now complete with piety and with God's goodly presence — to them, sunk in fit silence reverently, their souls and minds pendent on Hermes' lips, thus Love Divine began to speak.)
-\v 2 \vp 2\vp* [TrisJ] The soul of every man, O [my] Asclepius, is deathless; yet not all in like fashion, but some in one way or [one] time, some in another.
-\p \zsp Asc.|who="Asclepius"\zsp* Is not, then, O Thrice-greatest one, each soul of one [and the same] quality?
-\p \zsp Tris.|who="Hermes"\zsp* How quickly hast thou fallen, O Asclepius, from reason's true sobriety!
+\p (When Ammon too had come within the holy place, and when the sacred group of four was now complete with piety and with God's goodly presence — to them, sunk in fit silence reverently, their souls and minds pendent on Hermes' lips, thus Love Divine began to speak.)\zsay-e\*
+\v 2 \vp 2\vp* \zsay-s |who="Hermes"\*[TrisJ] The soul of every man, O [my] Asclepius, is deathless; yet not all in like fashion, but some in one way or [one] time, some in another.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Is not, then, O Thrice-greatest one, each soul of one [and the same] quality?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* How quickly hast thou fallen, O Asclepius, from reason's true sobriety!
 \p Did not I say that “All” is “One,” and “One” is “All,” in as much as all things have been in the Creator before they were created. Nor is He called unfitly “All,” in that His members are the “All.”
 \p Therefore, in all this argument, see that thou keep in mind Him who is “One”- “All,” or who Himself is maker of the “All.”
 \p All things descend from Heaven to Earth, to Water and to Air.
 \p 'Tis Fire alone, in that it is borne upwards, giveth life; that which [is carried] downwards [is] subservient to Fire.
 \p Further, whatever doth descend from the above, begetteth; what floweth upwards, nourisheth.
 \p 'Tis Earth alone, in that it resteth on itself, that is Receiver of all things, and [also] the Restorer of all genera that it receives.
-\p This Whole, therefore, as thou rememberest, in that it is of all, — in other words, all things, embraced by nature under “Soul” and “World,” are in [perpetual] flux, so varied by the multiform equality of all their forms, that countless kinds of well-distinguished qualities may be discerned, yet with this bond of union, that all should seem as One, and from “One” “All.”
-\v 3 \vp 3\vp* That, then, from which the whole Cosmos is formed, consisteth of Four Elements — Fire, Water, Earth, and Air; Cosmos [itself is] one, [its] Soul [is] one, and God is one.
+\p This Whole, therefore, as thou rememberest, in that it is of all, — in other words, all things, embraced by nature under “Soul” and “World,” are in [perpetual] flux, so varied by the multiform equality of all their forms, that countless kinds of well-distinguished qualities may be discerned, yet with this bond of union, that all should seem as One, and from “One” “All.”\zsay-e\*
+\v 3 \vp 3\vp* \zsay-s |who="Hermes"\*That, then, from which the whole Cosmos is formed, consisteth of Four Elements — Fire, Water, Earth, and Air; Cosmos [itself is] one, [its] Soul [is] one, and God is one.
 \p Now lend to me the whole of thee, — all that thou can'st in mind, all that thou skill'st in penetration.
 \p For that the Reason of Divinity may not be known except by an intention of the senses like to it.
 \p 'Tis likest to the torrent's flood, down-dashing headlong from above with all-devouring tide; so that it comes about, that by the swiftness of its speed it is too quick for our attention, not only for the hearers, but also for the very teachers.
@@ -40,8 +40,8 @@
 \p But He who is the Ruler of the Heaven, and of its Soul as well, and of all things within the Cosmos, — He is God, who is the Maker of all things.
 \p For from all those that have been said above, o'er which the same God rules, there floweth forth a flood of all things streaming through the Cosmos and the Soul, of every class and kind, throughout the Nature of [all] things.
 \p The Cosmos hath, moreover, been prepared by God as the receptacle of forms of every kind.
-\p Forth-thinking Nature by these kinds of things, He hath extended Cosmos unto Heaven by means of the Four Elements, — all to give pleasure to the eye of God.
-\v 4 \vp 4\vp* And all dependent from Above are subdivided into species in the fashion which I am to tell.
+\p Forth-thinking Nature by these kinds of things, He hath extended Cosmos unto Heaven by means of the Four Elements, — all to give pleasure to the eye of God.\zsay-e\*
+\v 4 \vp 4\vp* \zsay-s |who="Hermes"\*And all dependent from Above are subdivided into species in the fashion which I am to tell.
 \p The genera of all things company with their own species; so that the genus is a class in its entirety, the species is part of a genus.
 \p The genus of the Gods will, therefore, make the species of the Gods out of itself.
 \p In like way, too, the genus of the daimons, and of men, likewise of birds, and of all [animals] the Cosmos doth contain within itself, brings into being species like itself.
@@ -50,16 +50,16 @@
 \p For that a species is part of a genus, — as man, for instance, of mankind, — and that a part must follow its own class's quality.
 \p From which it comes to pass that though all genera are deathless, all species are not so.
 \p The genus of Divinity is in itself and in its species [also] deathless.
-\p As for the genera of other things, — as to their genus, they [too] are everlasting; [for] though [the genus] perish in its species, yet it persists through its fecundity in being born. And for this cause its species are beneath the sway of death; so that man mortal is, mankind immortal.
-\v 5 \vp 5\vp* And yet the species of all genera are interblended with all genera; some which have previously been made, some which are made from these.
+\p As for the genera of other things, — as to their genus, they [too] are everlasting; [for] though [the genus] perish in its species, yet it persists through its fecundity in being born. And for this cause its species are beneath the sway of death; so that man mortal is, mankind immortal.\zsay-e\*
+\v 5 \vp 5\vp* \zsay-s |who="Hermes"\*And yet the species of all genera are interblended with all genera; some which have previously been made, some which are made from these.
 \p The latter, then, which are being made, — either by Gods, or daimons, or by men, — are species all most closely like to their own several genera.
 \p For that it is impossible that bodies should be formed without the will of God; or species be configured without the help of daimons; or animals be taught and trained without the help of men.
 \p Whoever of the daimons, then, transcending their own genus, are, by chance, united with a species, by reason of the neighbourhood of any species of the Godlike class, — these are considered like to Gods.
 \p Whereas those species of the daimons which continue in the quality of their own class, — these love men's rational nature [and occupy themselves with men], and are called daimons proper.
 \p Likewise is it the case with men, or more so even. Diverse and multiform, the species of mankind. And coming in itself from the association spoken of above, it of necessity doth bring about a multitude of combinations of all other species and almost of all things.
 \p Wherefore doth man draw nigh unto the Gods, if he have joined himself unto the Gods with Godlike piety by reason of his mind, whereby he is joined to the Gods; and [nigh] unto the daimons, in that he is joined unto them [as well].
-\p Whereas those men who are contented with the mediocrity of their own class, and the remaining species of mankind, will be like those unto the species of whose class they've joined themselves.
-\v 6 \vp 6\vp* It is for reasons such as these, Asclepius, man is a mighty wonder, — an animal meet for our worship and for our respect.
+\p Whereas those men who are contented with the mediocrity of their own class, and the remaining species of mankind, will be like those unto the species of whose class they've joined themselves.\zsay-e\*
+\v 6 \vp 6\vp* \zsay-s |who="Hermes"\*It is for reasons such as these, Asclepius, man is a mighty wonder, — an animal meet for our worship and for our respect.
 \p For he doth pass into God's Nature, as though himself were God. This genus [also] knows the genus of the daimons, as though man knew he had a [common] origin with them. He thinketh little of the part of human nature in him, from confidence in the divineness of [his] other part.
 \p How much more happy is the blend of human nature [than of all the rest]! Joined to the Gods by his cognate divinity, a man looks down upon the part of him by means of which he's common with the Earth.
 \p The rest of things to which he knows he's kin, by [reason of] the heavenly order [in him], he binds unto himself with bonds of love; and thus he turns his gaze to Heaven.
@@ -73,24 +73,24 @@
 \p Twain are the forms of food — for soul and body, of which [all] animals consist. Their soul is nourished by the ever-restless motion of the World; their bodies have their growth from foods [drawn] from the water and the earth of the inferior world.
 \p Spirit, with which they all are filled, being interblended with the rest, doth make them live; sense being added, and also reason in the case of man — which hath been given to man alone as a fifth part out of the aether.
 \p Of all the living things [God] doth adorn, extend, exalt, the sense of man alone unto the understanding of the Keason of Divinity.
-\p But since I am impressed to speak concerning Sense, I will a little further on set forth for you the sermon on this [point]; for that it is most holy, and [most] mighty, not less than in the Reason of Divinity itself.
-\v 7 \vp 7\vp* But now I'll finish for you what I have begun. For I was speaking at the start of union with the Gods, by which men only consciously enjoy the Gods regard, — I mean whatever men have won such rapture that they have obtained a share of that Divine Sense of intelligence which is the most Divine of Senses, found in God and in man's reason.
-\p \zsp Asc.|who="Asclepius"\zsp* Are not the senses of all men, Thricegreatest one, the same?
-\p \zsp Tris.|who="Hermes"\zsp* Nay, [my] Asclepius, all have not won true reason; but wildly rushing in pursuit of [reason's] counterfeit, they never see the thing itself, and are deceived. And this breeds evil in their minds, and [thus] transforms the best of animals into the nature of a beast and manners of the brutes.
+\p But since I am impressed to speak concerning Sense, I will a little further on set forth for you the sermon on this [point]; for that it is most holy, and [most] mighty, not less than in the Reason of Divinity itself.\zsay-e\*
+\v 7 \vp 7\vp* \zsay-s |who="Hermes"\*But now I'll finish for you what I have begun. For I was speaking at the start of union with the Gods, by which men only consciously enjoy the Gods regard, — I mean whatever men have won such rapture that they have obtained a share of that Divine Sense of intelligence which is the most Divine of Senses, found in God and in man's reason.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Are not the senses of all men, Thricegreatest one, the same?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* Nay, [my] Asclepius, all have not won true reason; but wildly rushing in pursuit of [reason's] counterfeit, they never see the thing itself, and are deceived. And this breeds evil in their minds, and [thus] transforms the best of animals into the nature of a beast and manners of the brutes.
 \p But as to Sense and all things similar, I will set forth the whole discourse when [I explain] concerning Spirit.
 \p For man is the sole animal that is twofold. One part of him is simple: the [man] “essential,” as say the Greeks, but which we call the “form of the Divine Similitude.”
-\p He also is fourfold: that which the Greeks call “hylic,” [but] which we call “cosmic”; of which is made the corporal part, in which is vestured what we just have said is the divine in man, — in which the godhead of the Mind alone, together with its kin, that is the Pure Mind's senses, findeth home and rest, its self with its own self, as though shut in the body's walls.
-\p \zsp Asc.|who="Asclepius"\zsp* What, then, Thrice-greatest one, has caused it that man should be planted in the world, and should not pass his life in highest happiness in that part [of the universe] where there is God?
-\p \zsp [Tris.]|who="Hermes"\zsp* Rightly thou questionest, O [my] Asclepius! And we pray God that He bestow on us the power of setting forth this reason; since everything depends upon His Will, and specially those things that are set forth about the Highest Whole, the Reason that's the object of our present argument. Hear, then, Asclepius!
-\v 8 \vp 8\vp* The Lord and Maker of all things, whom we call rightly God, when from Himself He made the second [God], the Visible and Sensible, — I call him Sensible not that He hath sensation in Himself (for as to this, whether or no He have himself sensation, we will some other time declare), but that He is the object of the senses of those who see; — when, then, He made Him first, but second to Himself, and that He seemed to Him [most] fair, as one filled to the full with goodness of all things, He fell in love with Him as being part of His Divinity.
+\p He also is fourfold: that which the Greeks call “hylic,” [but] which we call “cosmic”; of which is made the corporal part, in which is vestured what we just have said is the divine in man, — in which the godhead of the Mind alone, together with its kin, that is the Pure Mind's senses, findeth home and rest, its self with its own self, as though shut in the body's walls.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* What, then, Thrice-greatest one, has caused it that man should be planted in the world, and should not pass his life in highest happiness in that part [of the universe] where there is God?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp [Tris.]|who="Hermes"\zsp* Rightly thou questionest, O [my] Asclepius! And we pray God that He bestow on us the power of setting forth this reason; since everything depends upon His Will, and specially those things that are set forth about the Highest Whole, the Reason that's the object of our present argument. Hear, then, Asclepius!\zsay-e\*
+\v 8 \vp 8\vp* \zsay-s |who="Hermes"\*The Lord and Maker of all things, whom we call rightly God, when from Himself He made the second [God], the Visible and Sensible, — I call him Sensible not that He hath sensation in Himself (for as to this, whether or no He have himself sensation, we will some other time declare), but that He is the object of the senses of those who see; — when, then, He made Him first, but second to Himself, and that He seemed to Him [most] fair, as one filled to the full with goodness of all things, He fell in love with Him as being part of His Divinity.
 \p Accordingly, in that He was so mighty and so fair, He willed that some one else should have the power to contemplate the One He had made from Himself. And thereon He made man, — the imitator of His Reason and His Love.
 \p The Will of God is in itself complete accomplishment; inasmuch as together with His having willed, in one and the same time He hath brought it to full accomplishment.
 \p And so, when He perceived that the “essential” [man] could not be lover of all things, unless He clothed him in a cosmic carapace, He shut him in within a house of body, — and ordered it that all [men] should be so, — from either nature making him a single blend and fair-proportioned mixture.
 \p Therefore hath He made man of soul and body, — that is, of an eternal and a mortal nature; so that an animal thus blended can content his dual origin, — admire and worship things in heaven, and cultivate and govern things on earth.
 \p By mortal things I do not mean the water or the earth [themselves], for these are two of the [immortal] elements that nature hath made subject unto men, — but [either] things that are by men, or [that are] in or from them; such as the cultivation of the earth itself, pastures, [and] buildings, harbours, voyagings, intercommunications, mutual services, which are the firmest bonds of men between themselves and that part of the Cosmos which consists [indeed] of water and of earth, [but is] the Cosmos' terrene part, — which is preserved by knowledge and the use of arts and sciences; without which [things] God willeth not Cosmos should be complete.
 \p In that necessity doth follow what seems good to God; performance waits upon His will.
-\p Nor is it credible that that which once hath pleased Him, will become unpleasing unto God; since He hath known both what will be, and what will please Him, long before.
-\v 9 \vp 9\vp* But, O Asclepius, I see that thou with swift desire of mind art in a hurry to be told how man can have a love and worship of the Heaven, or of the things that are therein. Hear, then, Asclepius!
+\p Nor is it credible that that which once hath pleased Him, will become unpleasing unto God; since He hath known both what will be, and what will please Him, long before.\zsay-e\*
+\v 9 \vp 9\vp* \zsay-s |who="Hermes"\*But, O Asclepius, I see that thou with swift desire of mind art in a hurry to be told how man can have a love and worship of the Heaven, or of the things that are therein. Hear, then, Asclepius!
 \p The love of God and Heaven, together with all them that are therein, is one perpetual act of worship.
 \p No other thing ensouled, of Gods or animals, can do this thing, save man alone. Tis in the admiration, adoration, [and] the praise of men, and [in their] acts of worship, that Heaven and Heaven's hosts find their delight.
 \p Nor is it without cause the Muses' choir hath been sent down by Highest Deity unto the host of men; in order that, forsooth, the terrene world should not seem too uncultured, had it lacked the charm of measures, but rather that with songs and praise of men accompanied with music, He might be lauded, — He who alone is all, or is the Sire of all; and so not even on the earths, should there have been an absence of the sweetness of the harmony of heavenly praise.
@@ -105,8 +105,8 @@
 \p He knows himself; he knows the World as well. So that he recollects, indeed, what is convenient to his own parts. He calls to mind what he must use, that they may be of service to himself; giving the greatest praise and thanks to God, His Image reverencing, — not ignorant that he is, too, God's image the second [one]; for that there are two images of God — Cosmos and man.
 \p So that it comes to pass that, since man's is a single structure, — in that part [of him] which doth consist of Soul, and Sense, of Spirit, and of Reason, he's divine; so that he seems to have the power to mount from as it were the higher elements into the Heaven.
 \p But in his cosmic part, which is composed of fire, and water, and of air, he stayeth mortal on the Earth, — lest he should leave all things committed to his care forsaken and bereft.
-\p Thus human kind is made in one part deathless, and in the other part subject to death while in a body.
-\v 10 \vp 11\vp* Now of that dual nature, — that is to say of man, — there is a chief capacity. [And that is] piety, which goodness follows after.
+\p Thus human kind is made in one part deathless, and in the other part subject to death while in a body.\zsay-e\*
+\v 10 \vp 11\vp* \zsay-s |who="Hermes"\*Now of that dual nature, — that is to say of man, — there is a chief capacity. [And that is] piety, which goodness follows after.
 \p [And] this [capacity] then, and then only, seems to be perfected, if it be fortified with virtue of despising all desires for alien things.
 \p For alien from every part of kinship with the Gods are all things on the Earth, whatever are possessed from bodily desires, — to which we rightly give the name “possessions,” in that they are not born with us, but later on begin to be possessed by us; wherefore we call them by the name possessions.
 \p All such things, then, are alien from man, —even his body. So that we can despise not only what we long for, but also that from which the vice of longing comes to us.
@@ -117,16 +117,16 @@
 \p Man, then, being thus created and composed, and to such ministry and service set by Highest God, — man, by his keeping suitably the world in proper order, [and] by his piously adoring God, in both becomingly and suitably obeying God's Good Will, — [man being] such as this, with what reward think'st thou he should be recompensed?
 \p If that, indeed, — since Cosmos is God's work, — he who preserves and adds on to its beauty by his love, joins his own work unto God's Will; when he with toil and care doth fashion out the species (which He hath made [already] with His Divine Intent), with help of his own body; — with what reward think'st thou he should be recompensed, unless it be with that with which our forebears have been blest?
 \p That this may be the pleasure of God's Love, such is our prayer for you, devoted ones.
-\p In other words, may He, when ye have served your time, and have put off the world's restraint, and freed yourselves from deathly bonds, restore you pure and holy to the nature of your higher self, that is of the Divine!
-\v 11 \vp 12\vp* \zsp Asc.|who="Asclepius"\zsp* Rightly and truly, O Thrice-greatest one, thou speakest. This is the prize for those who piously subordinate their lives to God and live to help the world.
-\p \zsp Tris.|who="Hermes"\zsp* [To those], however, who have lived in other fashion impiously, — [to them] both is return to Heaven denied, and there's appointed them migration into other bodies unworthy of a holy soul and base; so that, as this discourse of ours will show, souls in their life on earth run risk of losing hope of future immortality.
+\p In other words, may He, when ye have served your time, and have put off the world's restraint, and freed yourselves from deathly bonds, restore you pure and holy to the nature of your higher self, that is of the Divine!\zsay-e\*
+\v 11 \vp 12\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Rightly and truly, O Thrice-greatest one, thou speakest. This is the prize for those who piously subordinate their lives to God and live to help the world.\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* [To those], however, who have lived in other fashion impiously, — [to them] both is return to Heaven denied, and there's appointed them migration into other bodies unworthy of a holy soul and base; so that, as this discourse of ours will show, souls in their life on earth run risk of losing hope of future immortality.
 \p But [all of this] doth seem to some beyond belief; a tale to others; to others [yet again], perchance, a subject for their mirth.
 \p For in this life in body, it is a pleasant thing — the pleasure that one gets from one's possessions. 'Tis for this cause that spite, in envy of its [hope of] immortality, doth clap the soul in prison, as they say, and keep it down, so that it stays in that part of itself in which it's mortal, nor suffers it to know the part of its divinity.
-\p For I will tell thee, as though it were prophetic-ly, that no one after us shall have the Single Love, the Love of wisdom-loving, which consists in Gnosis of Divinity alone,— [the practice of] perpetual contemplation and of holy piety. For that the many do confound philosophy with multifarious reasoning.
-\p \zsp Asc.|who="Asclepius"\zsp* Why is it, then, the many make philosophy so hard to grasp; or wherefore is it they confound this thing with multifarious
-\v 12 \vp 13\vp* the sweetest and the truest harmony with God's [own] Song.
-\v 13 \vp 14\vp* \zsp Asc.|who="Asclepius"\zsp* Who, therefore, will the men be after us?
-\p \zsp Tris.|who="Hermes"\zsp* They will be led astray by sophists' cleverness, and turned from True Philosophy, —the Pure and Holy [Love].
+\p For I will tell thee, as though it were prophetic-ly, that no one after us shall have the Single Love, the Love of wisdom-loving, which consists in Gnosis of Divinity alone,— [the practice of] perpetual contemplation and of holy piety. For that the many do confound philosophy with multifarious reasoning.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Why is it, then, the many make philosophy so hard to grasp; or wherefore is it they confound this thing with multifarious\zsay-e\*
+\v 12 \vp 13\vp* \zsay-s |who="Asclepius"\*the sweetest and the truest harmony with God's [own] Song.\zsay-e\*
+\v 13 \vp 14\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Who, therefore, will the men be after us?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* They will be led astray by sophists' cleverness, and turned from True Philosophy, —the Pure and Holy [Love].
 \p For that to worship God with single mind and soul, and reverence the things that He hath made, and to give thanks unto His Will, which is the only thing quite full of Good, — this is Philosophy unsullied by the soul's rough curiousness.
 \p But of this subject let what has been said so far suffice.
 \p And now let us begin to treat of Spirit and such things.
@@ -136,14 +136,14 @@
 \p And so whatever things there are that have in them the power of generating, — these two are generable, [that is to say,] from which birth can take place, though they be born from their own selves [alone]. For there's no question that from those born from themselves birth can with ease take place, since from them all are born.
 \p God, then, the everlasting, God the eternal, nor can be born, nor could He have been born. That is, That was, That shall be ever. This, therefore, is God's Nature — all from itself [alone].
 \p But Matter (or the Nature of the Cosmos) and Spirit, although they do not seem to be things born from any source, yet in themselves possess the power of generation and of generating, —the nature of fecundity.
-\p For the beginning [truly] is in [just that] quality of nature which possesses in itself the power and matter both of conception and of birth. This, then, without conception of another, is generable of its own self.
-\v 14 \vp 15\vp* But, on the other hand, [whereas] those things which only have the power of bringing forth by blending with another nature, are thus to be distinguished, this Space of Cosmos, with those that are in it, seems not to have been born, in that [the Cosmos] has in it undoubtedly all Nature's potency.
+\p For the beginning [truly] is in [just that] quality of nature which possesses in itself the power and matter both of conception and of birth. This, then, without conception of another, is generable of its own self.\zsay-e\*
+\v 14 \vp 15\vp* \zsay-s |who="Hermes"\*But, on the other hand, [whereas] those things which only have the power of bringing forth by blending with another nature, are thus to be distinguished, this Space of Cosmos, with those that are in it, seems not to have been born, in that [the Cosmos] has in it undoubtedly all Nature's potency.
 \p By “Space” I mean that in which are all things. For all these things could not have been had Space not been, to hold them all. Since for all things that there have been, must be provided Space.
 \p For neither could the qualities nor quantities, nor the positions, nor [yet] the operations, be distinguished of those things which are no where.
 \p So then the Cosmos, also, though not born, still has in it the births of all; in that, indeed, it doth afford for all of them most fecund wombs for their conception.
 \p It, therefore, is the sum of [all that] quality of Matter which hath creative potency, although it hath not been [itself] created.
-\p And, seeing that [this] quality of Matter is in its nature [simple] productiveness; so the same [source] produces bad as well [as good].
-\v 15 \vp 16\vp* I have not, therefore, O Asclepius and Ammon, said what many say, that God could not excise and banish evil from the Scheme of Things; — to whom no answer need at all be given. Yet for your sakes I will continue what I have begun, and give a reason.
+\p And, seeing that [this] quality of Matter is in its nature [simple] productiveness; so the same [source] produces bad as well [as good].\zsay-e\*
+\v 15 \vp 16\vp* \zsay-s |who="Hermes"\*I have not, therefore, O Asclepius and Ammon, said what many say, that God could not excise and banish evil from the Scheme of Things; — to whom no answer need at all be given. Yet for your sakes I will continue what I have begun, and give a reason.
 \p They say that God ought to have freed the World from bad in every way; for so much is it in the World, that it doth seem to be as though it were one of its limbs.
 \p This was foreseen by Highest God and [due] provision made, as much as ever could have been in reason made, then when He thought it proper to endow the minds of men with sense, and science and intelligence.
 \p For it is by these things alone whereby we stand above the rest of animals, that we are able to avoid the snares and crimes of ill.
@@ -151,8 +151,8 @@
 \p For that the ground-work of [true] science doth consist of the top-stones of virtue.
 \p It is by Spirit that all things are governed in the Cosmos, and made quick, — Spirit made subject to the Will of Highest God, as though it were an engine or machine.
 \p So far, then, [only] let Him be by us conceived,— as Him who is conceivable by mind alone, who is called Highest God, the Ruler and Director of God Sensible, — of Him who in Himself includes all Space, all Substance, and all Matter, of things producing and begetting, and all whatever is, however great it be.
-\p •JL
-\v 16 \vp 17\vp* It is by Spirit that all species in the Cosmos are [or] moved or ruled, — each one according to its proper nature given it by God.
+\p •JL\zsay-e\*
+\v 16 \vp 17\vp* \zsay-s |who="Hermes"\*It is by Spirit that all species in the Cosmos are [or] moved or ruled, — each one according to its proper nature given it by God.
 \p Matter, or Cosmos, on the other hand, is that which holds all things, — the field of motion, and the that which crowds together all; of which God is the Ruler, distributing unto all cosmic things all that is requisite to each.
 \p It is with Spirit that He fills all things, according to the quality of each one's nature.
 \p [Now,] seeing that the hollow roundness of the Cosmos is borne round into the fashion of a sphere; by reason of its [very] quality or form, it never can be altogether visible unto itself.
@@ -161,16 +161,16 @@
 \p Wherefore, its bottom, or its [lowest] part, if [such a] place there be within a sphere, is called in Greek a-eides; since that eidein in Greek means “seeing,” — which “being-seen” the sphere's beginning lacks.
 \p Hence, too, the species have the name eideai? since they're of form we cannot see.
 \p Therefore, in that they are deprived of “being-seen,” in Greek they are called Hades; in that they are at bottom of the sphere, they're called in Latin Inferi.
-\p These, then, are principal and prior, and, as it were, the sources and the heads of all the things which are in them, through them, or from them.
-\v 17 \vp 18\vp* \zsp Asc.|who="Asclepius"\zsp* All things, then, in themselves (as thou, Thrice-greatest one, dost say) are cosmic [principles] (as I should say) of all the species which are in them, [or] as it were, the sum and substance of each one of them.
-\p \zsp Tris.|who="Hermes"\zsp* So Cosmos, then, doth nourish bodies; the Spirit, souls; the [Higher] Sense (with which Celestial Gift mankind alone is blest) doth feed the mind.
+\p These, then, are principal and prior, and, as it were, the sources and the heads of all the things which are in them, through them, or from them.\zsay-e\*
+\v 17 \vp 18\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* All things, then, in themselves (as thou, Thrice-greatest one, dost say) are cosmic [principles] (as I should say) of all the species which are in them, [or] as it were, the sum and substance of each one of them.\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* So Cosmos, then, doth nourish bodies; the Spirit, souls; the [Higher] Sense (with which Celestial Gift mankind alone is blest) doth feed the mind.
 \p And [these are] not all men, but [they are] few, whose minds are of such quality that they can be receptive of so great a blessing.
 \p For as the World's illumined by the Sun, so is the mind of man illumined by that Light; nay, in [still] fuller measure.
 \p For whatsoever thing the Sun doth shine upon, it is anon, by interjection of the Earth or Moon, or by the intervention of the night, robbed of its light.
 \p But once the [Higher] Sense hath been commingled with the soul of man, there is at-onement from the happy union of the blending of their natures; so that minds of this kind are never more held fast in errors of the darkness.
-\p Wherefore, with reason have they said the [Higher] Senses are the souls of Gods; to which I add: not of all Gods, but of the great ones [only]; nay, even of the principles of these.
-\v 18 \vp 19\vp* \zsp Asc.|who="Asclepius"\zsp* What dost thou call, Thrice-greatest one, the heads of things, or sources of beginnings?
-\p \zsp Tris.|who="Hermes"\zsp* Great are the mysteries which I reveal to thee, divine the secrets I disclose; and so I make beginning of this thing with prayers for Heaven's favour.
+\p Wherefore, with reason have they said the [Higher] Senses are the souls of Gods; to which I add: not of all Gods, but of the great ones [only]; nay, even of the principles of these.\zsay-e\*
+\v 18 \vp 19\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* What dost thou call, Thrice-greatest one, the heads of things, or sources of beginnings?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* Great are the mysteries which I reveal to thee, divine the secrets I disclose; and so I make beginning of this thing with prayers for Heaven's favour.
 \p The hierarchies of Gods are numerous; and of them all one class is called the Noumenal, the other [class] the Sensible.
 \p The former are called Noumenal, not for the reason that they're thought to lie beyond our senses; for these are just the Gods we sense more truly than the ones we call the visible, — just as our argument will prove, and thou, if thou attend, wilt be made fit to see.
 \p For that a lofty reasoning, and much more one that is too godlike for the mental grasp of [average] men, if that the speaker's words are not received with more attentive service of the ears, — will fly and flow beyond them; or rather will flow back [again], and mingle with the streams of its own source.
@@ -184,25 +184,25 @@
 \p —mortal from mortal things and things like these.
 \p These hierarchies of Gods, then, being thus and [in this way] related, from bottom unto top, are [also] thus connected with each other, and tend towards themselves; so mortal things are bound to mortal, things sensible to sensible.
 \p The whole of [this grand scale of] Rulership, however, seems to Him [who is] the Highest Lord, either to be not many things, or rather [to be] one.
-\p For that from One all things depending, and flowing down from it, — when they are seen as separate, they're thought to be as many as they possibly can be; but in their union it is one [thing], or rather two, from which all things are made; — that is, from Matter, by means of which the other things are made, and by the Will of Him, by nod of whom they're brought to pass.
-\v 19 \vp 20\vp* \zsp Asc.|who="Asclepius"\zsp* Is this again the reason, O Thricegreatest one?
-\p \zsp Tris.|who="Hermes"\zsp* It is, Asclepius. For God's the Father or the Lord of all, or whatsoever else may be the name by which He's named more holily and piously by men, — which should be set apart among ourselves for sake of our intelligence.
+\p For that from One all things depending, and flowing down from it, — when they are seen as separate, they're thought to be as many as they possibly can be; but in their union it is one [thing], or rather two, from which all things are made; — that is, from Matter, by means of which the other things are made, and by the Will of Him, by nod of whom they're brought to pass.\zsay-e\*
+\v 19 \vp 20\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Is this again the reason, O Thricegreatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* It is, Asclepius. For God's the Father or the Lord of all, or whatsoever else may be the name by which He's named more holily and piously by men, — which should be set apart among ourselves for sake of our intelligence.
 \p For if we contemplate this so transcendent God, we shall not make Him definite by any of these names.
 \p For if a [spoken] word is this: — a sound proceeding from the air, when struck by breath, denoting the whole will, perchance, of man, or else the [higher] sense, which by good chance a man perceives by means of mind, when out of [all his] senses, — a name the stuff of which, made of a syllable or two, has so been limited and pondered, that it might serve in man as necessary link between the voice and ear; — thus [must] the Name of God in full consist of Sense, and Spirit, and of Air, and of all things in them, or through, or with them.
 \p Indeed, I have no hope that the Creator of the whole of Greatness, the Father and the Lord of all the things [that are], could ever have one name, even although it should be made up of a multitude — He who cannot be named, or rather He who can be called by every name.
 \p For He, indeed, is One and All; so that it needs must be that all things should be called by the same name as His, or He Himself called by the names of all.
 \p He, then, alone, yet all-complete in the fertility of either sex, ever with child of His own Will, doth ever bring to birth whatever He hath willed to procreate.
 \p His Will is the All-goodness, which also is the Goodness of all things, born from the nature of His own Divinity, — in order that all things may be, just as they all have been, and that henceforth the nature of being born from their own selves may be sufficient to all things that will be born.
-\p Let this, then, be the reason given thee, Asclepius, wherefore and how all things are made of either sex.
-\v 20 \vp 21\vp* \zsp Asc.|who="Asclepius"\zsp* Thou speak'st of God, then, O Thricegreatest one?
-\p \zsp Tris.|who="Hermes"\zsp* Not only God, Asclepius, but all things living and inanimate. For 'tis impossible that any of the things that are should be unfruitful.
+\p Let this, then, be the reason given thee, Asclepius, wherefore and how all things are made of either sex.\zsay-e\*
+\v 20 \vp 21\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Thou speak'st of God, then, O Thricegreatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* Not only God, Asclepius, but all things living and inanimate. For 'tis impossible that any of the things that are should be unfruitful.
 \p For if fecundity should be removed from all the things that are, it could not be that they should be for ever what they are. mean that Nature, Sense, and Cosmos, have in themselves the power of being born, and of preserving all things that are born.
 \p For either sex is full of procreation; and of each one there is a union, or, — what's more true, — a unity incomprehensible; which you may rightly call Eros or Aphrodite, or both [names].
 \p This, then, is truer than all truth, and plainer than what the mind ['s eye] perceives;— that from that Universal God of Universal Nature all other things for evermore have found, and had bestowed on them, the mystery of bringing forth; in which there is innate the sweetest Charity, [and] Joy, [and] Merriment, Longing, and Love Divine.
 \p We might have had to tell the mighty power and the compulsion of this mystery, if it had not been able to be known by every one from personal experience, by observation of himself.
 \p For if thou should'st regard that supreme [point] of time when... the one nature doth pour forth the young into the other one, and when the other greedily absorbs [it] from the first, and hides it [ever] deeper [in itself]; — then, at that time, out of their common congress, females attain the nature of the males, males weary grow with female listlessness.
-\p And so the consummation of this mystery, so sweet and requisite, is wrought in secret; lest, owing to the vulgar jests of ignorance, the deity of either sex should be compelled to blush at natural congress, — and much more still, if it should be subjected to the sight of impious folk.
-\v 21 \vp 22\vp* The pious are not numerous, however; nay, they are very few, so that they may be counted even in the world.
+\p And so the consummation of this mystery, so sweet and requisite, is wrought in secret; lest, owing to the vulgar jests of ignorance, the deity of either sex should be compelled to blush at natural congress, — and much more still, if it should be subjected to the sight of impious folk.\zsay-e\*
+\v 21 \vp 22\vp* \zsay-s |who="Hermes"\*The pious are not numerous, however; nay, they are very few, so that they may be counted even in the world.
 \p Whence it doth come about, that in the many bad inheres, through defect of the Gnosis and Discernment of the things that are.
 \p For that it is from the intelligence of Godlike Reason, by which all things are ordered, there come to birth contempt and remedy of vice throughout the world.
 \p But when unknowingness and ignorance persist, all vicious things wax strong, and plague the soul with wounds incurable; so that, infected with them, and invitiated, it swells up, as though it were with poisons, — except for those who know the Discipline of souls and highest Cure of intellect.
@@ -212,19 +212,19 @@
 \p While as for man, He doth distinguish him from all the other animals by reason and by discipline alone; by means of which men can remove and separate their bodies' vices, — He helping them to hope and effort after deathlessness.
 \p In fine, He hath made man both good and able to share in immortal life, — out of two natures, [one] mortal, [one] divine.
 \p And just because he is thus fashioned by the Will of God, it is appointed that man should be superior both to the Gods, who have been made of an immortal nature only, and also to all mortal things.
-\p It is because of this that man, being joined unto the Gods by kinsmanship, doth reverence them with piety and holy mind; while, on their side, the Gods with pious sympathy regard and guard all things of men.
-\v 22 \vp 23\vp* But this can only be averred of a few men endowed with pious minds. Still, of the rest, the vicious folk, we ought to say no word, for fear a very sacred sermon should be spoiled by thinking of them.
+\p It is because of this that man, being joined unto the Gods by kinsmanship, doth reverence them with piety and holy mind; while, on their side, the Gods with pious sympathy regard and guard all things of men.\zsay-e\*
+\v 22 \vp 23\vp* \zsay-s |who="Hermes"\*But this can only be averred of a few men endowed with pious minds. Still, of the rest, the vicious folk, we ought to say no word, for fear a very sacred sermon should be spoiled by thinking of them.
 \p And since our sermon treats of the relationship and intercourse of men and Gods, — learn, O Asclepius, the power and strength of man!
 \p [Our] Lord and Father, or what is Highest God, — as He's Creator of the Gods in Heaven, so man's the maker of the gods who, in the temples, suffer man's approach, and who not only have light poured on them, but who send forth [their] light [on all]; not only does a man go forward towards the God[s], but also he confirms the Gods [on earth].
-\p Art thou surprised, Asclepius; nay is it not that even thou dost not believe?
-\p \zsp Asc.|who="Asclepius"\zsp* I am amazed, Thrice-greatest one; but willingly I give assent to [all] thy words. I judge that man most blest who hath attained so great felicity.
-\p \zsp Tris.|who="Hermes"\zsp* And rightly so; [for] he deserves our wonder, in that he is the greatest of them all.
+\p Art thou surprised, Asclepius; nay is it not that even thou dost not believe?\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* I am amazed, Thrice-greatest one; but willingly I give assent to [all] thy words. I judge that man most blest who hath attained so great felicity.\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* And rightly so; [for] he deserves our wonder, in that he is the greatest of them all.
 \p As for the genus of the Gods in Heaven,— 'tis plain from the commixture of them all, that it has been made pregnant from the fairest part of nature, and that the only signs [by which they are discerned] are, as it were, before all else their heads.
 \p Whereas the species of the gods which humankind constructs is fashioned out of either nature, — out of that nature which is more ancient and far more divine, and out of that which is in men; that is, out of the stuff of which they have been made and are configured, not only in their heads alone, but also in each limb and their whole frame.
 \p And so mankind, in imaging Divinity, stays mindful of the nature and the source of its own self.
-\p So that, just as [our] Sire and Lord did make the Gods æonian, that they might be like Him; so hath mankind configured its own gods according to the likeness of the look of its own self.
-\v 23 \vp 24\vp* \zsp Asc.|who="Asclepius"\zsp* Thou dost not mean their statues, dost thou, O Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* [I mean their] statues, O Asclepius, — dost thou not see how much thou even, doubtest? —statues, ensouled with sense, and filled with spirit, which work such mighty and such [strange] results, — statues which can foresee what is to come, and which perchance can prophesy, foretelling things by dreams and many other ways, —[statues] that take their strength away from men, or cure their sorrow, if they do so deserve.
+\p So that, just as [our] Sire and Lord did make the Gods æonian, that they might be like Him; so hath mankind configured its own gods according to the likeness of the look of its own self.\zsay-e\*
+\v 23 \vp 24\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Thou dost not mean their statues, dost thou, O Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* [I mean their] statues, O Asclepius, — dost thou not see how much thou even, doubtest? —statues, ensouled with sense, and filled with spirit, which work such mighty and such [strange] results, — statues which can foresee what is to come, and which perchance can prophesy, foretelling things by dreams and many other ways, —[statues] that take their strength away from men, or cure their sorrow, if they do so deserve.
 \p Dost thou not know, Asclepius, that Egypt is the image of the Heaven; or, what is truer still, the transference, or the descent, of all that are in governance or exercise in Heaven? And if more truly [still] it must be said, — this land of ours is Shrine of all the World.
 \p Further, in that 'tis fitting that the prudent should know all before, it is not right ye should be ignorant of this.
 \p The time will come when Egypt will appear to have in vain served the Divinity with pious mind and constant worship; and all its holy cult will fall to nothingness and be in vain.
@@ -235,8 +235,8 @@
 \p And Egypt will be made the home of Scyth or Indian, or some one like to them, — that is a foreign neighbour.
 \p Ay, for the Godly company shall mount again to Heaven, and their forsaken worshippers shall all die out; and Egypt, thus bereft of God and man, shall be abandoned.
 \p And now I speak to thee, O River, holiest [Stream]! I tell thee what will be. With bloody torrents shalt thou overflow thy banks. Not only shall thy streams divine be stained with blood; but they shall all flow over [with the same].
-\p The tale of tombs shall far exceed the [number of the] quick; and the surviving remnant shall be Egyptians in their tongue alone, but in their actions foreigners.
-\v 24 \vp 25\vp* Why dost thou weep, Asclepius? Nay, more than this, by far more wretched, — Egypt herself shall be impelled and stained with greater ills.
+\p The tale of tombs shall far exceed the [number of the] quick; and the surviving remnant shall be Egyptians in their tongue alone, but in their actions foreigners.\zsay-e\*
+\v 24 \vp 25\vp* \zsay-s |who="Hermes"\*Why dost thou weep, Asclepius? Nay, more than this, by far more wretched, — Egypt herself shall be impelled and stained with greater ills.
 \p For she, the Holy [Land], and once deservedly the most beloved by God, by reason of her pious service of the Gods on earth, — she, the sole colony of holiness, and teacher of religion [on the earth], shall be the type of all that is most barbarous.
 \p And then, out of our loathing for mankind, the World will seem no more deserving of our wonder and our praise.
 \p All this good thing, — than which there has been fairer naught that can be seen, nor is there anything, nor will there [ever] be, — will be in jeopardy.
@@ -247,17 +247,17 @@
 \p New statutes shall come into force, a novel law; naught [that is] sacred, nothing pious, naught that is worthy of the Heaven, or Gods in Heaven, shall [e'er] be heard, or [even] mentally believed.
 \p The sorrowful departure of the Gods from men takes place; bad angels only stay, who mingled with humanity will lay their hands on them, and drive the wretched folk to every ill of recklessness, — to wars, and robberies, deceits, and all those things that are opposed to the soul's nature.
 \p Then shall the Earth no longer hold together; the Sea no longer shall be sailed upon; nor shall the Heaven continue with the Courses of the Stars, nor the Star-course in Heaven.
-\p The voice of every God shall cease in the [Great] Silence that no one can break; the fruits of Earth shall rot; nay, Earth no longer shall bring forth; and Air itself shall faint in that sad listlessness.
-\v 25 \vp 26\vp* This, when it comes, shall be the World's old age, impiety, — irregularity, and lack of rationality in all good things.
+\p The voice of every God shall cease in the [Great] Silence that no one can break; the fruits of Earth shall rot; nay, Earth no longer shall bring forth; and Air itself shall faint in that sad listlessness.\zsay-e\*
+\v 25 \vp 26\vp* \zsay-s |who="Hermes"\*This, when it comes, shall be the World's old age, impiety, — irregularity, and lack of rationality in all good things.
 \p And when these things all come to pass, Asclepius, — then He, [our] Lord and Sire, God First in power, and Ruler of the One God [Visible], in check of crime, and calling error back from the corruption of all things unto good manners and to deeds spontaneous with His Will (that is to say God's Goodness), — ending all ill, by either washing it away with water-flood, or burning it away with fire, or by the means of pestilent diseases, spread throughout all hostile lands, — God will recall the Cosmos to its ancient form; so that the World itself shall seem meet to be worshipped and admired; and God, the Maker and Restorer of so vast a work, be sung by the humanity who shall be then, with ceaseless heraldings of praise and [hymns of] blessing.
-\p For this [Re-] birth of Cosmos is the making new of all good things, and the most holy and most pious bringing-back again of Nature's self, by means of a set course of time, — of Nature, which was without beginning, and which is without an end. For that God's Will hath no beginning; and, in that 'tis the same and as it is, it is without an end.
-\p \zsp Asc.|who="Asclepius"\zsp* Because God's Nature's the Determination of the Will. Determination is the Highest Good; is it not so, Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* Asclepius, Will is Determination's child; nay, willing in itself comes from the Will.
+\p For this [Re-] birth of Cosmos is the making new of all good things, and the most holy and most pious bringing-back again of Nature's self, by means of a set course of time, — of Nature, which was without beginning, and which is without an end. For that God's Will hath no beginning; and, in that 'tis the same and as it is, it is without an end.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* Because God's Nature's the Determination of the Will. Determination is the Highest Good; is it not so, Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* Asclepius, Will is Determination's child; nay, willing in itself comes from the Will.
 \p Not that He willeth aught desiring it; for that He is the Fullness of all things, and wills what things He has.
 \p He thus wills all good things, and has all that He wills. Nay, rather, He doth think and will all good.
-\p This, then, is God; the World of Good's His Image
-\v 26 \vp 27\vp* \zsp Asc.|who="Asclepius"\zsp* [Is Cosmos] good, Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* ['Tis] good, as I will teach thee, O Asclepius.
+\p This, then, is God; the World of Good's His Image\zsay-e\*
+\v 26 \vp 27\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* [Is Cosmos] good, Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* ['Tis] good, as I will teach thee, O Asclepius.
 \p For just as God is the Apportioner and Steward of good things to all the species, or [more correctly] genera, which are in Cosmos, — that is to say, of Sense, and Soul, and Life, — so Cosmos is the giver and bestower of all things which seem unto [us] mortals good; — that is to say, the alternation of its parts, of seasonable fruits, birth, growth, maturity, and things like these.
 \p And for this cause God doth transcend the height of highest Heaven, extending everywhere, and doth behold all things on every side.
 \p Beyond the Heaven starless Space doth stretch, stranger to every thing possessed of body.
@@ -265,28 +265,28 @@
 \p The Earth and Sea is ruled by Zeus Below; he is the Nourisher of mortal lives, and of fruit-bearing [trees].
 \p It is by reason of the powers of all of these that fruits, and trees, and earth, grow green.
 \p The powers and energies of [all] the other [Gods] will be distributed through all the things that are.
-\p Yea, they who rule the earth shall be distributed [through all the lands], and [finally] be gathered in a state, — at top of Egypt's upper part, — which shall be founded towards the setting sun, and to which all the mortal race shall speed.
-\p \zsp Asc.|who="Asclepius"\zsp* But now, just at this moment, where are they, Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* They're gathered in a very large community, upon the Libyan Hill. And now enough concerning this hath been declared.
+\p Yea, they who rule the earth shall be distributed [through all the lands], and [finally] be gathered in a state, — at top of Egypt's upper part, — which shall be founded towards the setting sun, and to which all the mortal race shall speed.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* But now, just at this moment, where are they, Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* They're gathered in a very large community, upon the Libyan Hill. And now enough concerning this hath been declared.
 \p But now the question as to deathlessness or as to death must be discussed.
 \p The expectation and the fear of death torture the multitude, who do not know True Reason.
 \p Now death is brought about by dissolution of the body, wearied out with toil, and of the number, when complete, by which the body's members are arranged into a single engine for the purposes of life. The body dies, when it no longer can support the life - powers of a man.
 \p This, then, is death, — the body's dissolution, and the disappearance of corporeal sense.
-\p As to this death anxiety is needless. But there's another [death] which no man can escape, but which the ignorance and unbelief of man think little of.
-\p \zsp Asc.|who="Asclepius"\zsp* What is it, O Thrice-greatest one, that men know nothing of, or disbelieve that it can be?
-\p \zsp Tris.|who="Hermes"\zsp* So, lend thy ear, Asclepius!
-\v 27 \vp 28\vp* When, [then,] the soul's departure from the body shall take place, — then shall the judgment and the weighing of its merit pass into its highest daimon's power.
+\p As to this death anxiety is needless. But there's another [death] which no man can escape, but which the ignorance and unbelief of man think little of.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* What is it, O Thrice-greatest one, that men know nothing of, or disbelieve that it can be?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* So, lend thy ear, Asclepius!\zsay-e\*
+\v 27 \vp 28\vp* \zsay-s |who="Hermes"\*When, [then,] the soul's departure from the body shall take place, — then shall the judgment and the weighing of its merit pass into its highest daimon's power.
 \p And when he sees it pious is and just, — he suffers it to rest in spots appropriate to it.
 \p But if he find it soiled with stains of evil deeds, and fouled with vice, — he drives it from Above into the Depths, and hands it o'er to warring hurricanes and vortices of Air, of Fire, and Water.
 \p 'Twixt Heaven and Earth, upon the waves of Cosmos, is it dragged in contrary directions, for ever racked with ceaseless pains; so that in this its deathless nature doth afflict the soul, in that because of its unceasing sense, it hath the yoke of ceaseless torture set upon its neck.
 \p Know, then, that we should dread, and be afraid, and [ever] be upon our guard, lest we should be entangled in these [toils].
-\p For those who do not now believe, will after their misdeeds be driven to believe, by facts not words, by actual sufferings of punishment and not by threats.
-\p \zsp Asc.|who="Asclepius"\zsp* The faults of men are not, then, punished, O Thrice-greatest one, by law of man alone?
-\p \zsp Tris.|who="Hermes"\zsp* In the first place, Asclepius, all things on Earth must die.
+\p For those who do not now believe, will after their misdeeds be driven to believe, by facts not words, by actual sufferings of punishment and not by threats.\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* The faults of men are not, then, punished, O Thrice-greatest one, by law of man alone?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* In the first place, Asclepius, all things on Earth must die.
 \p Further, those things which live by reason of a body, and which do cease from living by reason of the same, — all these, according to the merits of this life, or its demerits, find due [rewards or] punishments.
-\p [And as to punishments] they're all the more severe, if in their life [their misdeeds] chance to have been hidden, till their death. For [then] they will be made full conscious of all things by the divinity, just as they are, according to the shades of punishment allotted to their crimes.
-\v 28 \vp 29\vp* \zsp Asc.|who="Asclepius"\zsp* And these deserve [still] greater punishments, Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* [Assuredly;] for those condemned by laws of man do lose their life by violence, so that [all] men may see they have not yielded up their soul to pay the debt of nature, but have received the penalty of their deserts.
+\p [And as to punishments] they're all the more severe, if in their life [their misdeeds] chance to have been hidden, till their death. For [then] they will be made full conscious of all things by the divinity, just as they are, according to the shades of punishment allotted to their crimes.\zsay-e\*
+\v 28 \vp 29\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* And these deserve [still] greater punishments, Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* [Assuredly;] for those condemned by laws of man do lose their life by violence, so that [all] men may see they have not yielded up their soul to pay the debt of nature, but have received the penalty of their deserts.
 \p Upon the other hand, the righteous man finds his defence in serving God and deepest piety. For God doth guard such men from every ill.
 \p Yea, He who is the Sire of all, [our] Lord, and who alone is all, doth love to show Himself to all.
 \p It is not by the place where he may be, nor by the quality which he may have, nor by the greatness which he may possess, but by the mind's intelligence alone, that He doth shed His light on man, — [on him] who shakes the clouds of Error from his soul, and sights the brilliancy of Truth, mingling himself with the All-sense of the Divine Intelligence; through love of which he wins his freedom from that part of him o'er which Death rules, and has the seed of the assurance of his future Deathlessness implanted in him.
@@ -298,8 +298,8 @@
 \p And so he should be the full store of life and deathlessness; if that it needs must be that he should live for ever.
 \p And so the Sun, just as the Cosmos, lasts for aye. So is he, too, for ever ruler of [all] vital powers, or of [our] whole vitality; he is their ruler, or the one who gives them out.
 \p God, then, is the eternal ruler of all living things, or vital functions, that are in the World. He is the everlasting giver-forth of Life itself.
-\p Once for all [time] He hath bestowed Life on all vital powers; He further doth preserve them by a law that lasts for evermore, as I will [now] explain.
-\v 29 \vp 30\vp* For in the very Life of the Eternity is Cosmos moved; and in the very Everlastingness of Life [itself] is Cosmic Space.
+\p Once for all [time] He hath bestowed Life on all vital powers; He further doth preserve them by a law that lasts for evermore, as I will [now] explain.\zsay-e\*
+\v 29 \vp 30\vp* \zsay-s |who="Hermes"\*For in the very Life of the Eternity is Cosmos moved; and in the very Everlastingness of Life [itself] is Cosmic Space.
 \p On which account it shall not stop at any time, nor shall it be destroyed; for that its very self is palisaded round about, and bound together as it were, by Living's Sempiternity.
 \p Cosmos is [thus] Life-giver unto all that are in it, and is the Space of all that are in governance beneath the Sun.
 \p The motion of the Cosmos in itself consisteth of a two-fold energy. 'Tis vivified itself from the without by the Eternity, and vivifies all things that are within, making all different, by numbers and by times, fixed and appointed [for them].
@@ -309,8 +309,8 @@
 \p [XL M.] All things, then, being thus, there's nothing stable, nothing fixed, nothing immoveable, of things that are being born, in Heaven or on the Earth.
 \p Immoveable [is] God alone, and rightly [He] alone; for He Himself is in Himself, and by Himself, and round Himself, completely full and perfect.
 \p He is His own immoveable stability. Nor by the pressure of some other one can He be moved, nor in the space [of anyone].
-\p For in Him are all [spaces], and He Himself alone is in them all; unless someone should venture to assert that God's own motion's in Eternity; nay, rather, it is just Immoveable Eternity itself, back into which the motion of all times is funded, and out of which the motion of all times takes its beginning.
-\v 30 \vp 31\vp* God, then, hath [ever] been unchanging, and ever, in like fashion, with Himself hath the Eternity consisted, — having within itself Cosmos ingenerate, which we correctly call [God] Sensible.
+\p For in Him are all [spaces], and He Himself alone is in them all; unless someone should venture to assert that God's own motion's in Eternity; nay, rather, it is just Immoveable Eternity itself, back into which the motion of all times is funded, and out of which the motion of all times takes its beginning.\zsay-e\*
+\v 30 \vp 31\vp* \zsay-s |who="Hermes"\*God, then, hath [ever] been unchanging, and ever, in like fashion, with Himself hath the Eternity consisted, — having within itself Cosmos ingenerate, which we correctly call [God] Sensible.
 \p Of that [transcendent] Deity this Image hath been made, — Cosmos the imitator of Eternity.
 \p Time, further, hath the strength and nature of its own stability, in spite of its being in perpetual motion, — from its necessity of [ever] from itself reverting to itself.
 \p And so, although Eternity is stable, motionless, and fixed, still, seeing that the movement of [this] Time (which is subject to motion) is ever being recalled into Eternity, — and for that reason Time's mobility is circular, — it comes to pass that the Eternity itself, although in its own self, is motionless, [yet] on account of Time, in which it is — (and it is in it), — it seems to be in movement as all motion.
@@ -320,8 +320,8 @@
 \p That, then, which so transcends, which is not subject unto sense, [which is] beyond all bounds, [and which] cannot be grasped, — That transcends all appraisement; That cannot be supported, nor borne up, nor can it be tracked out.
 \p For where, and when, and whence, and how, and what, He is, — is known to none. For He's borne up by [His] supreme stability, and His stability is in Himself [alone], — whether [this mystery] be God, or the Eternity, or both, or one in other, or both in either.
 \p And for this cause, just as Eternity transcends the bounds of Time; so Time [itself], in that it cannot have bounds set to it by number, or by change, or by the period of the revolution of some second [kind of Time], — is of the nature of Eternity.
-\p Both, then, seem boundless, both eternal. And so stability, though naturally fixed, yet seeing that it can sustain the things that are in motion, — because of all the good it does by reason of its firmness, deservedly doth hold the chiefest place.
-\v 31 \vp 32\vp* The principals of all that are, are, therefore, God and Æon.
+\p Both, then, seem boundless, both eternal. And so stability, though naturally fixed, yet seeing that it can sustain the things that are in motion, — because of all the good it does by reason of its firmness, deservedly doth hold the chiefest place.\zsay-e\*
+\v 31 \vp 32\vp* \zsay-s |who="Hermes"\*The principals of all that are, are, therefore, God and Æon.
 \p The Cosmos, on the other hand, in that 'tis moveable, is not a principal.
 \p For its mobility exceeds its own stability by treating the immoveable fixation as the law of everlasting movement.
 \p The Whole Sense, then, of the Divinity, though like [to Him] in its own self immoveable, doth set itself in motion within its own stability.
@@ -341,8 +341,8 @@
 \p Now in our case the intellect doth differ from the sense in this, — that by the mind's extension intellect can reach to the intelligence and the discernment of the quality of Cosmic Sense.
 \p The Intellect of Cosmos, on the other hand, extends to the Eternity and to the Gnosis of the Gods who are above itself.
 \p And thus it comes to pass for men, that we perceive the things in Heaven, as it were through a mist, as far as the condition of the human sense allows.
-\p 'Tis true that the extension [of the mind] which we possess for the survey of such transcendent things, is very narrow [still]; but [it will be] most ample when it shall perceive with the felicity of [true] self-consciousness.
-\v 32 \vp 33\vp* Now on the subject of a “Void,” —which seems to almost all a thing of vast importance, — I hold the following view.
+\p 'Tis true that the extension [of the mind] which we possess for the survey of such transcendent things, is very narrow [still]; but [it will be] most ample when it shall perceive with the felicity of [true] self-consciousness.\zsay-e\*
+\v 32 \vp 33\vp* \zsay-s |who="Hermes"\*Now on the subject of a “Void,” —which seems to almost all a thing of vast importance, — I hold the following view.
 \p Naught is, naught could have been, naught ever will be void.
 \p For all the members of the Cosmos are completely full; so that Cosmos itself is full and [quite] complete with bodies, diverse in quality and form, possessing each its proper kind and size.
 \p And of these bodies — one's greater than another, or another's less than is another, by difference of strength and size.
@@ -351,8 +351,8 @@
 \p So also [for the Space] which is called Extra-cosmic, — if there be any (which I do not believe), — [then] is it filled by Him with things Intelligible, that is things of like nature with His own Divinity; just as this Cosmos which is called the Sensible, is fully filled with bodies and with animals, consonant with its proper nature and its quality; — [bodies] the proper shape of which we do not all behold, but [see] some large beyond their proper measure, some very small; either because of the great space which lies between [them and ourselves], or else because our sight is dull; so that they seem to us to be minute, or by the multitude are thought not to exist at all, because of their too great tenuity.
 \p I mean the daimones, who, I believe, have their abode with us, and heroes, who abide between the purest part of air above us and the earth, — where it is ever cloudless, and no [movement from the] motion of a single star [disturbs the peace].
 \p Because of this, Asclepius, thou shalt call nothing void; unless thou wilt declare of what that's void, which thou dost say is void; — for instance, void of fire, of water, or things like to these.
-\p For if it should fall out, that it should seem that anything is able to be void of things like these, — though that which seemeth void be little I or be big, it still cannot be void of spirit and of air.
-\v 33 \vp 34\vp* In like way must we also talk concerning “Space,” — a term which by itself is void of “sense.”
+\p For if it should fall out, that it should seem that anything is able to be void of things like these, — though that which seemeth void be little I or be big, it still cannot be void of spirit and of air.\zsay-e\*
+\v 33 \vp 34\vp* \zsay-s |who="Hermes"\*In like way must we also talk concerning “Space,” — a term which by itself is void of “sense.”
 \p For Space seems what it is from that of which it is [the space]. For if the qualifying word is cut away, the sense is maimed.
 \p Wherefore we shall [more] rightly say the space of water, space of fire, or [space] of things like these.
 \p For as it is impossible that aught be void; so is Space also in itself not possible to be distinguished what it is.
@@ -364,22 +364,22 @@
 \p For that He is all Goodness, Fitness, Wisdom, unchangeable, — that can be sensed and understood by His own self alone.
 \p Without Him naught hath been, nor is, nor will be.
 \p For all things are from Him, in Him, and through Him, — both multitudinous qualities, and mighty quantities, and magnitudes exceeding every means of measurement, and species of all forms; — which things, if thou should'st understand, Asclepius, thou wilt give thanks to God.
-\p And if thou should'st observe it as a whole, thou wilt be taught, by means of the True Reason, that Cosmos in itself is knowable to sense, and that all things in it are wrapped as in a vesture by that Higher Cosmos [spoken of above].
-\v 34 \vp 35\vp* Now every single class of living thing, Asclepius, of whatsoever kind, or it be mortal or be rational, whether it be endowed with soul, or be without one, just as each has its class, so does each several [class] have images of its own class.
+\p And if thou should'st observe it as a whole, thou wilt be taught, by means of the True Reason, that Cosmos in itself is knowable to sense, and that all things in it are wrapped as in a vesture by that Higher Cosmos [spoken of above].\zsay-e\*
+\v 34 \vp 35\vp* \zsay-s |who="Hermes"\*Now every single class of living thing, Asclepius, of whatsoever kind, or it be mortal or be rational, whether it be endowed with soul, or be without one, just as each has its class, so does each several [class] have images of its own class.
 \p And though each separate class of animal has in it every form of its own class, still in the selfsame [kind of] form the units differ from each other.
 \p And so although the class of men is of one kind, so that a man can be distinguished by his [general] look, still individual men within the sameness of their [common] form do differ from each other.
 \p For the idea which is divine, is bodiless, and is whatever is grasped by the mind.
 \p So that although these two, from which the general form and body are derived, are bodiless, it is impossible that any single form should be produced exactly like another, — because the moments of the hours and points of inclination [when they're born] are different.
 \p But they are changed as many times as there are moments in the hour of that revolving Circle in which abides that God whom we have called All-formed.
 \p The species, then, persists, as frequently producing from itself as many images, and as diverse, as there are moments in the Cosmic Revolution, — a Cosmos which doth [ever] change in revolution. But the idea [itself] is neither changed nor turned.
-\p So are the forms of every single genus permanent, [and yet] dissimilar in the same [general] form.
-\v 35 \vp 36\vp* \zsp Asc.|who="Asclepius"\zsp* And does the Cosmos have a species, O Thrice-greatest one?
-\p \zsp Tris.|who="Hermes"\zsp* Dost not thou see, Asclepius, that all has been explained to thee as though to one asleep?
+\p So are the forms of every single genus permanent, [and yet] dissimilar in the same [general] form.\zsay-e\*
+\v 35 \vp 36\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* And does the Cosmos have a species, O Thrice-greatest one?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* Dost not thou see, Asclepius, that all has been explained to thee as though to one asleep?
 \p For what is Cosmos, or of what doth it consist, if not of all things born?
 \p This, then, you may assert of heaven, and earth, and elements. For though the other things possess more frequent change of species, [still even] heaven, [by its] becoming moist, or dry, or cold, or hot, or clear, or dull, [all] in one kind of heaven, — these [too] are frequent changes into species.
 \p Earth hath, moreover, always many changes in its species; — both when she brings forth fruits, and when she also nourishes her bringings-forth with the return of all the fruits; the diverse qualities and quantities of air, its stoppings and its flowings; and before all the qualities of trees, of flowers, and berries, of scents, of savours — species.
-\p Fire [also] brings about most numerous conversions, and divine. For these are all-formed images of Sun and Moon; they're, as it were, like our own mirrors, which with their emulous resplendence give us back the likenesses of our own images.
-\v 36 \vp 37\vp* But now let this suffice about such things; and let us once again return to man and reason, — gift divine, from which man has the name of rational animal.
+\p Fire [also] brings about most numerous conversions, and divine. For these are all-formed images of Sun and Moon; they're, as it were, like our own mirrors, which with their emulous resplendence give us back the likenesses of our own images.\zsay-e\*
+\v 36 \vp 37\vp* \zsay-s |who="Hermes"\*But now let this suffice about such things; and let us once again return to man and reason, — gift divine, from which man has the name of rational animal.
 \p Less to be wondered at are the things said of man, — though they are [still] to be admired. Nay, of all marvels that which wins our wonder [most] is that man has been able to find out the nature of the Gods and bring it into play.
 \p Since, then, our earliest progenitors were in great error, — seeing they had no rational faith about the Gods, and that they paid no heed unto their cult and holy worship, — they chanced upon an art whereby they made Gods [for themselves].
 \p To this invention they conjoined a power that suited it, [derived] from cosmic nature; and blending these together, since souls they could not make, [they set about] evoking daimons' souls or those of angels; [and thus] attached them to their sacred images and holy mysteries, so that the statues should, by means of these, possess the powers of doing good and the reverse.
@@ -388,22 +388,22 @@
 \p As for Osiris' [spouse]; how many are the blessings that we know Isis bestows when she's propitious; how many does she injure when she's wrath!
 \p For that the terrene and the cosmic Gods are easily enraged, in that they are created and composed of the two natures.
 \p And for this cause it comes to pass that these are called the “sacred animals” by the Egyptians, and that each several state gives service to the souls of those whose souls have been made holy, while they were still alive; so that [the several states] are governed by the laws [of their peculiar sacred animals], and called after their names.
-\p It is because of this, Asclepius, those [animals] which are considered by some states deserving of their worship, in others are thought otherwise; and on account of this the states of the Egyptians wage with each other frequent war.
-\v 37 \vp 38\vp* \zsp Asc.|who="Asclepius"\zsp* And of what nature, O Thrice-greatest one, may be the quality of those who are considered terrene Gods?
-\p \zsp Tris.|who="Hermes"\zsp* It doth consist, Asclepius, of plants, and stones, and spices, which contain the nature of [their own] divinity.
+\p It is because of this, Asclepius, those [animals] which are considered by some states deserving of their worship, in others are thought otherwise; and on account of this the states of the Egyptians wage with each other frequent war.\zsay-e\*
+\v 37 \vp 38\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* And of what nature, O Thrice-greatest one, may be the quality of those who are considered terrene Gods?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* It doth consist, Asclepius, of plants, and stones, and spices, which contain the nature of [their own] divinity.
 \p And for this cause they are delighted with repeated sacrifice, with hymns, and lauds, and sweetest sounds, tuned to the key of Heaven's harmonious song.
 \p So that what is of heavenly nature, being drawn down into the images by means of heavenly use and practices, may be enabled to endure with joy the nature of mankind, and sojourn with it for long periods of time.
 \p Thus is it that man is the maker of the Gods.
 \p But do not, O Asclepius, pray thee, think the doings of the terrene Gods are the result of chance.
-\p The heavenly Gods dwell in the heights of Heaven, each filling up and watching o'er the rank he hath received; whereas these Gods of ours, each in its way,— by looking after certain things, foretelling others by oracles and prophecy, foreseeing others, and duly helping them along, — act as allies of men, as though they were our relatives and friends.
-\v 38 \vp 39\vp* \zsp Asc.|who="Asclepius"\zsp* What part of the economy, Thrice-greatest one, does the Heimarmene, or Fate, then occupy? For do not the celestial Gods rule over generals; the terrene occupy particulars?
-\p \zsp Tris.|who="Hermes"\zsp* That which we call Heimarmene, Asclepius, is the necessity of all things that are born, bound ever to themselves with interlinked enchainments.
+\p The heavenly Gods dwell in the heights of Heaven, each filling up and watching o'er the rank he hath received; whereas these Gods of ours, each in its way,— by looking after certain things, foretelling others by oracles and prophecy, foreseeing others, and duly helping them along, — act as allies of men, as though they were our relatives and friends.\zsay-e\*
+\v 38 \vp 39\vp* \zsay-s |who="Asclepius"\*\zsp Asc.|who="Asclepius"\zsp* What part of the economy, Thrice-greatest one, does the Heimarmene, or Fate, then occupy? For do not the celestial Gods rule over generals; the terrene occupy particulars?\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp Tris.|who="Hermes"\zsp* That which we call Heimarmene, Asclepius, is the necessity of all things that are born, bound ever to themselves with interlinked enchainments.
 \p This, then, is either the effector of all things, or it is highest God, or what is made the second God by God Himself, — or else the discipline of all things both in heaven and on earth, established by the laws of the Divine.
 \p And so these twain, Fate and Necessity, are bound to one another mutually by inseparable cohesion.
 \p The former of them, the Heimarmene, gives birth to the beginnings of all things; Necessity compels the end of [all] depending from these principals.
 \p On these doth Order follow, that is their warp-and-woof, and Time's arrangement for the perfecting of [all] things. For there is naught without the interblend of Order.
-\p That Cosmos is made perfect in all things; for Cosmos' self is vehicled in Order, or totally consists of Order.
-\v 39 \vp 40\vp* So, then, these three, Fate, [and] Necessity, [and] Order, are most immediately effected by God's Will, who rules the Cosmos by His Law and by His Holy Reason.
+\p That Cosmos is made perfect in all things; for Cosmos' self is vehicled in Order, or totally consists of Order.\zsay-e\*
+\v 39 \vp 40\vp* \zsay-s |who="Hermes"\*So, then, these three, Fate, [and] Necessity, [and] Order, are most immediately effected by God's Will, who rules the Cosmos by His Law and by His Holy Reason.
 \p From these, accordingly, all willing or not-willing is altogether foreign, according to God's Will.
 \p They are not moved by wrath nor swayed by favour, but are the instruments of the Eternal Reason's self-compulsion, which is [the Reason] of Eternity, that never can be turned aside, or changed, or be destroyed.
 \p First, then, is Fate, which, as it were, by casting in the seed, supplies the embryo of all that are to be.
@@ -415,13 +415,13 @@
 \p Good and bad issues, [therefore,] are commingled in all cosmic things.
 \p And now it hath been told you on each several point, — as man hath power [to tell], and God hath willed it and permitted it.
 \p This, then, alone remains that we should do, — bless God and give Him praise; and so return to taking thought for body ['s comfort].
-\p For now sufficiently have we been filled with feast of mind by our discourse on sacred things.
-\v 40 \vp 41\vp* Now when they came forth from the holy place, they turned their faces towards the south when they began their prayers to God.
+\p For now sufficiently have we been filled with feast of mind by our discourse on sacred things.\zsay-e\*
+\v 40 \vp 41\vp* \zsay-s |who="Hermes"\*Now when they came forth from the holy place, they turned their faces towards the south when they began their prayers to God.
 \p For when the sun is setting, should anyone desire to pray to God, he ought to turn him thitherwards; so also at the rising of the same, unto that spot which lies beneath the sun.
-\p As they were just beginning to recite the prayer, Asclepius did whisper:
-\p \zsp [Asc.]|who="Asclepius"\zsp* Let us suggest to father, Tat, — what he did bid us do, — that we should say our prayer to God with added incense and with unguents.
-\p Whom when Thrice-greatest heard, he grew distressed and said:
-\p \zsp [Tris.]|who="Hermes"\zsp* Nay, nay, Asclepius; speak more propitious words! For this is like to profanation of [our] sacred rites, — when thou dost pray to God, to offer incense and the rest.
+\p As they were just beginning to recite the prayer, Asclepius did whisper:\zsay-e\*
+\p \zsay-s |who="Asclepius"\*\zsp [Asc.]|who="Asclepius"\zsp* Let us suggest to father, Tat, — what he did bid us do, — that we should say our prayer to God with added incense and with unguents.
+\p Whom when Thrice-greatest heard, he grew distressed and said:\zsay-e\*
+\p \zsay-s |who="Hermes"\*\zsp [Tris.]|who="Hermes"\zsp* Nay, nay, Asclepius; speak more propitious words! For this is like to profanation of [our] sacred rites, — when thou dost pray to God, to offer incense and the rest.
 \p For naught is there of which He stands in need, in that He is all things, or all are in Him.
 \p But let us worship, pouring forth our thanks. For this is the best incense in God's sight, — when thanks are given to Him by men.
 \p \zqm-s\*[We give] Thee grace, Thou highest [and] most excellent! For by Thy Grace we have received the so great Light of Thy own Gnosis.
@@ -432,4 +432,4 @@
 \p We have known Thee, O Thou completely filled with the Conception from Thyself of Universal Nature!
 \p We have known Thee, O Thou Eternal Constancy!
 \p For in the whole of this our prayer in worship of Thy Good, this favour only of Thy Goodness do we crave; — that Thou wilt keep us constant in our Love of knowing Thee, and let us ne'er be cut off from this kind of Life.\zqm-e\*
-\p With this desire we [now] betake us to [our] pure and fleshless meal.
+\p With this desire we [now] betake us to [our] pure and fleshless meal.\zsay-e\*

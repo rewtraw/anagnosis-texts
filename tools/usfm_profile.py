@@ -282,3 +282,27 @@ def check_words(usfm, tsv):
         elif int(i) >= len(words) or words[int(i)] != form:
             problems.append(f"line {n}: {unit} {ref} word {i} is not {form}")
     return problems
+
+
+def speeches_from_labels(sections, starts=None):
+    """Speeches where an edition prints only its speakers' labels ("Arjuna said:", "Hermes."): each label's speech runs
+    to the next label, across sections, and ends with them (a chapter, a tractate: pass one unit at a time).
+    sections: [(ref, text, marks)] in order → the same, each with its say marks (one per section a speech crosses),
+    any say marks it had replaced. starts: {section index: speaker} for a turn the edition prints no label for (the
+    Gita's English at 6.33, where the Sanskrit has one): it begins at the section's start."""
+    labels = [(i, m[1], m[3]) for i, (_, _, marks) in enumerate(sections) for m in sorted(marks, key=ORDER) if m[0] == "sp"]
+    labels = sorted(labels + [(i, 0, who) for i, who in (starts or {}).items()
+                              if not any(j == i and a == 0 for j, a, _ in labels)])
+    adds = {}
+    for n, (i, a, who) in enumerate(labels):
+        j, b = (labels[n + 1][0], labels[n + 1][1]) if n + 1 < len(labels) else (len(sections) - 1, None)
+        for k in range(i, j + 1):
+            text = sections[k][1]
+            lo = a if k == i else 0
+            hi = (b if b is not None and k == j else len(text))
+            while hi > lo and text[hi - 1].isspace():
+                hi -= 1
+            if hi > lo:
+                adds.setdefault(k, []).append(["say", lo, hi, who])
+    return [(ref, text, sorted([m for m in marks if m[0] != "say"] + adds.get(k, []), key=ORDER))
+            for k, (ref, text, marks) in enumerate(sections)]
