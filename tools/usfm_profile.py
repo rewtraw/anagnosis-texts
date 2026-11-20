@@ -125,7 +125,7 @@ def write(meta, units):
              f"\\rem anagnosis work={meta['work']} edition={meta['edition']} lang={meta['lang']}"
              + (f" urn={meta['urn']} cite={meta.get('cite', 'vp')}" if meta.get("urn") else ""),
              f"\\rem source {meta['source']}", f"\\rem rights {meta['rights']}",
-             *(f"\\rem note {n}" for n in meta.get("notes", ())),
+             *(f"\\rem note {n.replace(chr(92), '')}" for n in meta.get("notes", ())),  # a backslash would open a marker
              f"\\h {meta['title']}", f"\\toc1 {meta['title']}", f"\\mt1 {meta['title']}"]
     for c, (label, sections) in enumerate(units, 1):
         lines.append(f"\\c {c}" + (f"\n\\cp {label}" if label else ""))
@@ -211,6 +211,8 @@ def check(usfm):
         return ["the header lacks \\rem anagnosis, \\rem source, \\rem rights or \\h"]
     if not meta["rights"].strip() or not meta["source"].strip():
         problems.append("no source or no rights")
+    if any("\\" in line[1:] for line in usfm.split("\n\\c ", 1)[0].splitlines() if line.startswith(("\\rem", "\\h", "\\toc", "\\mt"))):
+        problems.append("a backslash inside a header line (it opens a marker)")
     units, seen = [], set()
     for block in re.split(r"\n(?=\\c \d+)", usfm)[1:]:
         label = (re.match(r"\\c \d+(?:\n\\cp (\S+))?", block)[1]) or ""
