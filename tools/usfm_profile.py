@@ -214,7 +214,11 @@ def check(usfm):
             if (label, v[1]) in seen:
                 problems.append(f"{label} {v[1]} appears twice")
             seen.add((label, v[1]))
-            sections.append((v[1], *read_section(v[2].rstrip("\n"))))
+            text, marks = read_section(v[2].rstrip("\n"))
+            for kind, start, end, *_ in marks:  # a speaker's label, a quotation, a word: within one paragraph
+                if kind in ("sp", "q", "tl", "w") and "\n\n" in text[start:end]:
+                    problems.append(f"{label} {v[1]}: a {kind} span runs across a paragraph break")
+            sections.append((v[1], text, marks))
         units.append((label, sections))
     if write(meta, units) != usfm:
         problems.append("does not read back into exactly the same file")
