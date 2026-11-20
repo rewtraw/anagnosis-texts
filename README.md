@@ -22,6 +22,16 @@ traditions around it. They are published here so that anyone can read them, buil
 | Tao Te Ching | Chinese (Wang Bi) | Classical Chinese | 1 | 81 | [chinese-wangbi](texts/chinese-wangbi) | Public domain text; markup CC0 1.0 |
 | Plotinus, Enneads | MacKenna | English | 1 | 650 | [greek-plotinus-mackenna](texts/greek-plotinus-mackenna) | Public domain in the US; markup CC0 1.0 |
 | Plotinus, Enneads | Greek (Volkmann) | Greek | 1 | 653 | [greek-plotinus-volkmann](texts/greek-plotinus-volkmann) | CC BY-SA 4.0 |
+| Heraclitus, Fragments | Burnet (1920) | English | 1 | 130 | [greek-heraclitus](texts/greek-heraclitus) | Public domain text; markup CC0 1.0 |
+| Parmenides, On Nature | Burnet (1920) | English | 1 | 16 | [greek-parmenides](texts/greek-parmenides) | Public domain text; markup CC0 1.0 |
+| Emerald Tablet | Latin | la | 1 | 18 | [hermetica-emerald-latin](texts/hermetica-emerald-latin) | Public domain text; markup CC0 1.0 |
+| Emerald Tablet | Steele & Singer (1928) | English | 1 | 18 | [hermetica-emerald-steele](texts/hermetica-emerald-steele) | Public domain text; markup CC0 1.0 |
+| The Kybalion | 1908 | English | 1 | 269 | [hermetica-kybalion](texts/hermetica-kybalion) | Public domain text; markup CC0 1.0 |
+| Yoga Sutras of Patanjali | Johnston (1912) | English | 1 | 195 | [indian-johnston](texts/indian-johnston) | Public domain text; markup CC0 1.0 |
+| Sefer Yetzirah and Bahir | Sefaria (CC0) | English | 2 | 133 | [kabbalah-sefaria](texts/kabbalah-sefaria) | CC0 1.0 (Sefaria's translations); markup CC0 1.0 |
+| Sefer Yetzirah and Bahir | Hebrew | he | 2 | 248 | [kabbalah-original](texts/kabbalah-original) | Public domain text; markup CC0 1.0 |
+| Pirkei Avot | Kulp (2007) | English | 1 | 108 | [mishnah-kulp](texts/mishnah-kulp) | CC BY 4.0 (Joshua Kulp, Mishnah Yomit, via Sefaria); markup CC0 1.0 |
+| Pirkei Avot | Hebrew | he | 1 | 108 | [mishnah-original](texts/mishnah-original) | Public domain text; markup CC0 1.0 |
 
 ## Why USFM
 

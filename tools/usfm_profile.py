@@ -222,6 +222,8 @@ def check(usfm):
                 problems.append(f"{label} {v[1]} appears twice")
             seen.add((label, v[1]))
             text, marks = read_section(v[2].rstrip("\n"))
+            if "|" in text:
+                problems.append(f"{label} {v[1]}: a bare | in the text (USFM's attribute separator)")
             for kind, start, end, *_ in marks:  # a speaker's label, a quotation, a word: within one paragraph
                 if kind in ("sp", "q", "tl", "w") and "\n\n" in text[start:end]:
                     problems.append(f"{label} {v[1]}: a {kind} span runs across a paragraph break")

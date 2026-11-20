@@ -13,6 +13,9 @@ The texts here are in the public domain. Their encodings differ, and each file's
   MacKenna's translation is in the public domain in the US): the texts are
   in the public domain. The markup added here (speakers, verse, notes placed in the text, corrections) is dedicated
   to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- **Pirkei Avot in English** (`texts/mishnah-kulp`): Joshua Kulp's translation (Mishnah Yomit, via Sefaria),
+  CC BY 4.0: credit him when you use it. **The Sefer Yetzirah and Bahir in English** (`texts/kabbalah-sefaria`):
+  Sefaria's translations, CC0.
 - **The tools** (`tools/`): CC0 1.0.
 
 Please credit Perseus and GLAUx when you use the Plato files. For GLAUx, cite: Keersmaekers, Alek (2021). The GLAUx

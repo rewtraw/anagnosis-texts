@@ -795,6 +795,230 @@
      "words": "texts/greek-plotinus-volkmann/words/enneads.tsv"
     }
    ]
+  },
+  {
+   "edition": "burnet.en",
+   "name": "Burnet (1920)",
+   "group": "Heraclitus, Fragments",
+   "language": "en",
+   "translator": "John Burnet",
+   "year": 1920,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikisource, Fragments of Heraclitus (annotated), from Burnet, Early Greek Philosophy (3rd ed., 1920); numbered by Diels–Kranz",
+   "sections": 130,
+   "works": [
+    {
+     "work": "heraclitus",
+     "title": "Heraclitus",
+     "file": "texts/greek-heraclitus/heraclitus.usfm",
+     "urn": "urn:cts:anagnosis:heraclitus.heraclitus.burnet-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "burnet1920.en",
+   "name": "Burnet (1920)",
+   "group": "Parmenides, On Nature",
+   "language": "en",
+   "translator": "John Burnet",
+   "year": 1920,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "https://en.wikisource.org/wiki/Early_Greek_Philosophy/Parmenides_of_Elea",
+   "sections": 16,
+   "works": [
+    {
+     "work": "parmenides-poem",
+     "title": "Parmenides: The Poem",
+     "file": "texts/greek-parmenides/parmenides-poem.usfm",
+     "urn": "urn:cts:anagnosis:parmenides.parmenidespoem.burnet-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "latin.la",
+   "name": "Latin",
+   "group": "Emerald Tablet",
+   "language": "la",
+   "translator": null,
+   "year": 1200,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikipedia, \"Emerald Tablet\" (Steele & Singer 1928)",
+   "sections": 18,
+   "works": [
+    {
+     "work": "emerald-tablet",
+     "title": "Emerald Tablet",
+     "file": "texts/hermetica-emerald-latin/emerald-tablet.usfm",
+     "urn": "urn:cts:anagnosis:hermetica.emeraldtablet.vulgate-lat",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "steele.en",
+   "name": "Steele & Singer (1928)",
+   "group": "Emerald Tablet",
+   "language": "en",
+   "translator": "Robert Steele and Dorothea Waley Singer",
+   "year": 1928,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Wikipedia, \"Emerald Tablet\" (Steele & Singer 1928)",
+   "sections": 18,
+   "works": [
+    {
+     "work": "emerald-tablet",
+     "title": "Emerald Tablet",
+     "file": "texts/hermetica-emerald-steele/emerald-tablet.usfm",
+     "urn": "urn:cts:anagnosis:hermetica.emeraldtablet.steele-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "kybalion.en",
+   "name": "1908",
+   "group": "The Kybalion",
+   "language": "en",
+   "translator": "Three Initiates",
+   "year": 1908,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 14209",
+   "sections": 269,
+   "works": [
+    {
+     "work": "kybalion",
+     "title": "The Kybalion",
+     "file": "texts/hermetica-kybalion/kybalion.usfm",
+     "urn": "urn:cts:anagnosis:hermetica.kybalion.kybalion-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "johnston.en",
+   "name": "Johnston (1912)",
+   "group": "Yoga Sutras of Patanjali",
+   "language": "en",
+   "translator": "Charles Johnston",
+   "year": 1912,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 2526",
+   "sections": 195,
+   "works": [
+    {
+     "work": "yoga-sutras",
+     "title": "Yoga Sutras",
+     "file": "texts/indian-johnston/yoga-sutras.usfm",
+     "urn": "urn:cts:anagnosis:patanjali.yogasutras.johnston-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "sefaria.en",
+   "name": "Sefaria (CC0)",
+   "group": "Sefer Yetzirah and Bahir",
+   "language": "en",
+   "translator": "Sefaria Community Translation",
+   "year": 2024,
+   "original": false,
+   "licence": "CC0 1.0 (Sefaria's translations); markup CC0 1.0",
+   "source": "Sefaria: Sefaria Community Translation",
+   "sections": 133,
+   "works": [
+    {
+     "work": "bahir",
+     "title": "Sefer HaBahir",
+     "file": "texts/kabbalah-sefaria/bahir.usfm",
+     "urn": "urn:cts:anagnosis:kabbalah.bahir.sefaria-eng",
+     "cite": "vp"
+    },
+    {
+     "work": "yetzirah",
+     "title": "Sefer Yetzirah",
+     "file": "texts/kabbalah-sefaria/yetzirah.usfm",
+     "urn": "urn:cts:anagnosis:kabbalah.yetzirah.sefaria-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "original.he",
+   "name": "Hebrew",
+   "group": "Sefer Yetzirah and Bahir",
+   "language": "he",
+   "translator": null,
+   "year": 1884,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Sefaria: Sefer Yetzirah, Warsaw 1884; Torat Emet Sefer HaBahir",
+   "sections": 248,
+   "works": [
+    {
+     "work": "bahir",
+     "title": "Sefer HaBahir",
+     "file": "texts/kabbalah-original/bahir.usfm",
+     "urn": "urn:cts:anagnosis:kabbalah.bahir.original-heb",
+     "cite": "vp"
+    },
+    {
+     "work": "yetzirah",
+     "title": "Sefer Yetzirah",
+     "file": "texts/kabbalah-original/yetzirah.usfm",
+     "urn": "urn:cts:anagnosis:kabbalah.yetzirah.original-heb",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "kulp.en",
+   "name": "Kulp (2007)",
+   "group": "Pirkei Avot",
+   "language": "en",
+   "translator": "Joshua Kulp",
+   "year": 2007,
+   "original": false,
+   "licence": "CC BY 4.0 (Joshua Kulp, Mishnah Yomit, via Sefaria); markup CC0 1.0",
+   "source": "Sefaria: Mishnah Yomit by Dr. Joshua Kulp",
+   "sections": 108,
+   "works": [
+    {
+     "work": "avot",
+     "title": "Pirkei Avot",
+     "file": "texts/mishnah-kulp/avot.usfm",
+     "urn": "urn:cts:anagnosis:mishnah.avot.kulp-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "original.he",
+   "name": "Hebrew",
+   "group": "Pirkei Avot",
+   "language": "he",
+   "translator": null,
+   "year": 1913,
+   "original": true,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Sefaria: Mishnah, ed. Romm, Vilna 1913",
+   "sections": 108,
+   "works": [
+    {
+     "work": "avot",
+     "title": "Pirkei Avot",
+     "file": "texts/mishnah-original/avot.usfm",
+     "urn": "urn:cts:anagnosis:mishnah.avot.original-heb",
+     "cite": "cp.vp"
+    }
+   ]
   }
  ]
 }
