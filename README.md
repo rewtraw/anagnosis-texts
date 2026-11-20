@@ -20,7 +20,7 @@ traditions around it. They are published here so that anyone can read them, buil
 | Corpus Hermeticum and Asclepius | Mead (1906) | English | 2 | 275 | [hermetica-mead](texts/hermetica-mead) | Public domain text; markup CC0 1.0 |
 | Tao Te Ching | Legge (1891) | English | 1 | 81 | [chinese-legge](texts/chinese-legge) | Public domain text; markup CC0 1.0 |
 | Tao Te Ching | Chinese (Wang Bi) | Classical Chinese | 1 | 81 | [chinese-wangbi](texts/chinese-wangbi) | Public domain text; markup CC0 1.0 |
-| Plotinus, Enneads | MacKenna | English | 1 | 650 | [greek-plotinus-mackenna](texts/greek-plotinus-mackenna) | Public domain in the US; markup CC0 1.0 |
+| Plotinus, Enneads | MacKenna | English | 1 | 653 | [greek-plotinus-mackenna](texts/greek-plotinus-mackenna) | Public domain in the US; markup CC0 1.0 |
 | Plotinus, Enneads | Greek (Volkmann) | Greek | 1 | 653 | [greek-plotinus-volkmann](texts/greek-plotinus-volkmann) | CC BY-SA 4.0 |
 | Heraclitus, Fragments | Burnet (1920) | English | 1 | 130 | [greek-heraclitus](texts/greek-heraclitus) | Public domain text; markup CC0 1.0 |
 | Parmenides, On Nature | Burnet (1920) | English | 1 | 16 | [greek-parmenides](texts/greek-parmenides) | Public domain text; markup CC0 1.0 |
