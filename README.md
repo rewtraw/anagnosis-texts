@@ -32,6 +32,7 @@ traditions around it. They are published here so that anyone can read them, buil
 | Sefer Yetzirah and Bahir | Hebrew | he | 2 | 248 | [kabbalah-original](texts/kabbalah-original) | Public domain text; markup CC0 1.0 |
 | Pirkei Avot | Kulp (2007) | English | 1 | 108 | [mishnah-kulp](texts/mishnah-kulp) | CC BY 4.0 (Joshua Kulp, Mishnah Yomit, via Sefaria); markup CC0 1.0 |
 | Pirkei Avot | Hebrew | he | 1 | 108 | [mishnah-original](texts/mishnah-original) | Public domain text; markup CC0 1.0 |
+| Zohar | Soncino (1933) | English | 1 | 11,296 | [kabbalah-zohar](texts/kabbalah-zohar) | Public domain (Soncino, 1933); gaps from Sefaria's community translation, CC0; markup CC0 1.0 |
 
 ## Why USFM
 

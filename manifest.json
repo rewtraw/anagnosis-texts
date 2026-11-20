@@ -1019,6 +1019,27 @@
      "cite": "cp.vp"
     }
    ]
+  },
+  {
+   "edition": "soncino1933.en",
+   "name": "Soncino (1933)",
+   "group": "Zohar",
+   "language": "en",
+   "translator": "Harry Sperling and Maurice Simon",
+   "year": 1933,
+   "original": false,
+   "licence": "Public domain (Soncino, 1933); gaps from Sefaria's community translation, CC0; markup CC0 1.0",
+   "source": "Sefaria: The Zohar; London, Soncino Press, 1933; Sefaria Community Translation",
+   "sections": 11296,
+   "works": [
+    {
+     "work": "zohar",
+     "title": "Zohar",
+     "file": "texts/kabbalah-zohar/zohar.usfm",
+     "urn": "urn:cts:anagnosis:kabbalah.zohar.soncino-eng",
+     "cite": "cp.vp"
+    }
+   ]
   }
  ]
 }

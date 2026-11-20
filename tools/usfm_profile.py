@@ -9,12 +9,13 @@ its marks, each [kind, start, end, data] over the text:
   qm  verse quoted within prose, a block of lines              \\qm1 per line
   tl  a word left in its own language                          \\tl …\\tl*
   f   a note at a point (start == end), data its text          \\f + \\fr ref \\ft …\\f*
+  ref a reference the edition prints, data its target (USFM "SNG 2:2", or a URN)   \\jmp …|link-href=""\\jmp*
   w   a word of the original, data its lemma and parsing        \\w form|lemma="" x-morph=""\\w*
   say a speech in verse (Dante's), data the speaker              \\zsay-s |who=""\\* … \\zsay-e\\*
 """
 import re
 
-KINDS = ("sp", "q", "qm", "tl", "f", "say", "w")
+KINDS = ("sp", "q", "qm", "tl", "f", "say", "w", "ref")
 CHAR = {"q": ("\\qt ", "\\qt*"), "tl": ("\\tl ", "\\tl*")}
 
 
@@ -45,6 +46,10 @@ def section_usfm(ref, text, marks):
         elif kind == "say":  # a speech: milestones, since it runs on from line to line
             opens.setdefault(start, []).append(f'\\zsay-s |who="{data[0]}"\\*')
             closes.setdefault(end, []).insert(0, "\\zsay-e\\*")
+        elif kind == "ref":  # a reference the edition prints, "(S.S. 2, 2)", linked to what it names
+            p = plus(kind, start, end)
+            opens.setdefault(start, []).append(f"\\{p}jmp ")
+            closes.setdefault(end, []).insert(0, f'|link-href="{data[0]}"\\{p}jmp*')
         elif kind == "w":  # a word of the original: its lemma and parsing
             p = plus(kind, start, end)
             opens.setdefault(start, []).append(f"\\{p}w ")
@@ -74,6 +79,7 @@ def section_usfm(ref, text, marks):
 
 _TOKEN = re.compile(r'\\zsay-s \|who="(?P<say>[^"]*)"\\\*|\\zsay-e\\\*|\\zqm-s\\\*|\\zqm-e\\\*|\n\\p |\n\\qm1 |\n\\q1 '
                     r'|\\\+?qt\*\\rq (?P<rq>[^\\]+)\\rq\*|\\\+?qt\*|\\\+?qt |\\\+?tl\*|\\\+?tl |\\zsp |\|who="(?P<sp>[^"]*)"\\zsp\*|\\\+?w |\|lemma="(?P<lemma>[^"]*)" x-morph="(?P<morph>[^"]*)"\\\+?w\*'
+                    r'|\\\+?jmp |\|link-href="(?P<href>[^"]*)"\\\+?jmp\*'
                     r'|\\f \+ \\fr [^\\]*\\ft (?P<note>.*?)\\f\*', re.S)
 ORDER = lambda m: (m[1], m[2], m[0])
 
@@ -102,7 +108,7 @@ def read_section(body):
             text.append("\n\n"); at += 2
         elif tok in ("\n\\qm1 ", "\n\\q1 "):
             text.append("\n"); at += 1
-        elif tok in ("\\qt ", "\\tl ", "\\zsp ", "\\w "):
+        elif tok in ("\\qt ", "\\tl ", "\\zsp ", "\\w ", "\\jmp "):
             stack.append((tok, at))
         elif m.group("rq") is not None:
             marks.append(["q", close("\\qt ")[1], at, m.group("rq")])
@@ -111,6 +117,8 @@ def read_section(body):
             marks.append([kind, close(CHAR[kind][0])[1], at])
         elif m.group("sp") is not None:
             marks.append(["sp", close("\\zsp ")[1], at, m.group("sp")])
+        elif m.group("href") is not None:
+            marks.append(["ref", close("\\jmp ")[1], at, m.group("href")])
         elif m.group("lemma") is not None:
             marks.append(["w", close("\\w ")[1], at, m.group("lemma"), m.group("morph")])
         elif m.group("note") is not None:
@@ -222,8 +230,8 @@ def check(usfm):
                 problems.append(f"{label} {v[1]} appears twice")
             seen.add((label, v[1]))
             text, marks = read_section(v[2].rstrip("\n"))
-            if "|" in text:
-                problems.append(f"{label} {v[1]}: a bare | in the text (USFM's attribute separator)")
+            if "|" in text or "\\" in text:
+                problems.append(f"{label} {v[1]}: a bare | or \\ in the text (USFM's attribute separator, or a marker)")
             for kind, start, end, *_ in marks:  # a speaker's label, a quotation, a word: within one paragraph
                 if kind in ("sp", "q", "tl", "w") and "\n\n" in text[start:end]:
                     problems.append(f"{label} {v[1]}: a {kind} span runs across a paragraph break")
