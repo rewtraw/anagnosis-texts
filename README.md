@@ -1,7 +1,8 @@
 # Anagnosis texts
 
 Classic texts in plain, structured, open USFM: each with its speakers, verse, quotations and its edition's own
-notes marked, and with its original language beside it. Plato's Greek also has every word's lemma and parsing.
+notes marked, and with its original language beside it. Plato's Greek also has every word's lemma and parsing,
+and every Plato file is addressed by its Perseus CTS URN.
 
 These are the open editions behind [Anagnosis](https://anagnosis.sh), a reader of scripture and the
 traditions around it. They are published here so that anyone can read them, build on them or correct them.
@@ -30,15 +31,19 @@ converts to JSON (USJ) and XML (USX). Using it for other texts means one parser 
 ## Using the files
 
 - **Python**: `tools/usfm_profile.py` reads a file into sections (`read`), each its text and its marks
-  (speaker, quotation, note, word…) as offsets into that text, and writes them back (`write`).
+  (speaker, speech, quotation, note…) as offsets into that text, and writes them back (`write`).
+- **Words**: Plato's Greek words, each with its lemma and parsing, are in `texts/plato-burnet/words/*.tsv`, keyed
+  by section and word number, beside the text rather than in it.
 - **JSON**: every push builds USJ for every file (the `usj` artifact of the `check` workflow), or run
   `npm install && node tools/validate.mjs --usj out/`.
-- Any USFM tool: Paratext, usfm-grammar, usfm-js.
+- Any USFM parser (usfm-grammar, usfm-js) reads the files; the profile's own markers (`\z…`: speakers, speeches,
+  quoted verse) mean something only to readers that know the profile. Every file is the extra-book `XXA`, so in
+  Paratext each work would be a project of its own.
 
 ## Checks
 
 On every push, `tools/check.py` confirms each file is lossless (it reads back into exactly the same file), names its
-source and rights, and has unique references; `tools/validate.mjs` parses each with
+source and rights, has unique references, and that every word in a sidecar is the word at that place; `tools/validate.mjs` parses each with
 [usfm-grammar](https://www.npmjs.com/package/usfm-grammar) and converts it to USJ.
 
 ## What is editorial

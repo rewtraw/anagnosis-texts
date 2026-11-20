@@ -118,7 +118,8 @@ def read_section(body):
 def write(meta, units):
     """A work's USFM file. meta: work, edition, lang, title, source, rights (and stanza, for verse). units: [(label or "", [(ref, text, marks)])]."""
     lines = [f"\\id XXA {meta['work']}", "\\usfm 3.1", "\\ide UTF-8",
-             f"\\rem anagnosis work={meta['work']} edition={meta['edition']} lang={meta['lang']}",
+             f"\\rem anagnosis work={meta['work']} edition={meta['edition']} lang={meta['lang']}"
+             + (f" urn={meta['urn']} cite={meta.get('cite', 'vp')}" if meta.get("urn") else ""),
              f"\\rem source {meta['source']}", f"\\rem rights {meta['rights']}",
              *(f"\\rem note {n}" for n in meta.get("notes", ())),
              f"\\h {meta['title']}", f"\\toc1 {meta['title']}", f"\\mt1 {meta['title']}"]
@@ -185,8 +186,8 @@ def write_checked(path, meta, units):
 def meta_of(usfm):
     """A file's header, as write() takes it: work, edition, lang, title, source, rights, notes, and stanza for verse."""
     head = usfm.split("\n\\c ", 1)[0]
-    rem = re.search(r"^\\rem anagnosis work=(\S+) edition=(\S+) lang=(\S+)$", head, re.M)
-    meta = {"work": rem[1], "edition": rem[2], "lang": rem[3],
+    rem = re.search(r"^\\rem anagnosis work=(\S+) edition=(\S+) lang=(\S+)(?: urn=(\S+) cite=(\S+))?$", head, re.M)
+    meta = {"work": rem[1], "edition": rem[2], "lang": rem[3], **({"urn": rem[4], "cite": rem[5]} if rem[4] else {}),
             "source": re.search(r"^\\rem source (.*)$", head, re.M)[1], "rights": re.search(r"^\\rem rights (.*)$", head, re.M)[1],
             "title": re.search(r"^\\h (.*)$", head, re.M)[1], "notes": re.findall(r"^\\rem note (.*)$", head, re.M)}
     if "\n\\b\n" in usfm:  # verse in stanzas: as many lines as stand before the first blank line
@@ -222,4 +223,46 @@ def check(usfm):
         units.append((label, sections))
     if write(meta, units) != usfm:
         problems.append("does not read back into exactly the same file")
+    return problems
+
+
+# ---------------------------------------------------------------- word-level data, beside the text
+
+# The words of an original, counted in a section's text in order: Greek letters with their accents, and an elision
+# mark if one ends the word ("ταῦτʼ"). A sidecar file names each annotated word by its section and this index.
+WORD = re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF\u0300-\u036F]+(?:[’'ʼ᾽](?![\u0370-\u03FF\u1F00-\u1FFF]))?")
+
+
+def words_tsv(units):
+    """A work's words with their lemma and parsing, as the sidecar beside its USFM (words/<work>.tsv): one row per
+    word, `unit  ref  n  form  lemma  morph`, n counting WORD tokens in the section's text from 0. units: [(label,
+    [(ref, text, marks)])], the word marks ["w", start, end, lemma, morph] among the marks."""
+    rows = ["# unit\tref\tn\tform\tlemma\tmorph"]
+    for label, sections in units:
+        for ref, text, marks in sections:
+            index = {(m.start(), m.end()): n for n, m in enumerate(WORD.finditer(text))}
+            for k, a, b, *data in marks:
+                if k == "w":
+                    rows.append("\t".join([label, ref, str(index[(a, b)]), text[a:b], data[0], data[1]]))
+    return "\n".join(rows) + "\n"
+
+
+def check_words(usfm, tsv):
+    """A sidecar against its text: every row names a section the file has, and the word it gives is the word there."""
+    sections = {}
+    label = ""
+    for block in re.split(r"\n(?=\\c \d+)", usfm)[1:]:
+        label = (re.match(r"\\c \d+(?:\n\\cp (\S+))?", block)[1]) or ""
+        for v in re.finditer(r"\n(?:\\q1 )?\\v \d+ \\vp ([^\\]+)\\vp\* (.*?)(?=\n(?:\\b\n)?(?:\\q1 )?\\v \d+ |\n\\c \d+|\Z)", block, re.S):
+            sections[(label, v[1])] = [m.group() for m in WORD.finditer(read_section(v[2].rstrip("\n"))[0])]
+    problems = []
+    for n, line in enumerate(tsv.splitlines(), 1):
+        if not line or line.startswith("#"):
+            continue
+        unit, ref, i, form, lemma, morph = line.split("\t")
+        words = sections.get((unit, ref))
+        if words is None:
+            problems.append(f"line {n}: no section {unit} {ref}".strip())
+        elif int(i) >= len(words) or words[int(i)] != form:
+            problems.append(f"line {n}: {unit} {ref} word {i} is not {form}")
     return problems

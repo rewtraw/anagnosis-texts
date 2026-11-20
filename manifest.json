@@ -10,188 +10,260 @@
    "year": 1925,
    "original": false,
    "licence": "CC BY-SA 4.0",
-   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Alcibiades 1",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; github.com/PerseusDL/canonical-greekLit",
    "sections": 8548,
    "works": [
     {
      "work": "alcibiades-1",
      "title": "Alcibiades 1",
-     "file": "texts/plato-loeb/alcibiades-1.usfm"
+     "file": "texts/plato-loeb/alcibiades-1.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg013.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "alcibiades-2",
      "title": "Alcibiades 2",
-     "file": "texts/plato-loeb/alcibiades-2.usfm"
+     "file": "texts/plato-loeb/alcibiades-2.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg014.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "apology",
      "title": "Apology",
-     "file": "texts/plato-loeb/apology.usfm"
+     "file": "texts/plato-loeb/apology.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg002.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "charmides",
      "title": "Charmides",
-     "file": "texts/plato-loeb/charmides.usfm"
+     "file": "texts/plato-loeb/charmides.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg018.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "cleitophon",
      "title": "Cleitophon",
-     "file": "texts/plato-loeb/cleitophon.usfm"
+     "file": "texts/plato-loeb/cleitophon.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg029.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "cratylus",
      "title": "Cratylus",
-     "file": "texts/plato-loeb/cratylus.usfm"
+     "file": "texts/plato-loeb/cratylus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg005.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "critias",
      "title": "Critias",
-     "file": "texts/plato-loeb/critias.usfm"
+     "file": "texts/plato-loeb/critias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg032.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "crito",
      "title": "Crito",
-     "file": "texts/plato-loeb/crito.usfm"
+     "file": "texts/plato-loeb/crito.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg003.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "epinomis",
      "title": "Epinomis",
-     "file": "texts/plato-loeb/epinomis.usfm"
+     "file": "texts/plato-loeb/epinomis.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg035.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "euthydemus",
      "title": "Euthydemus",
-     "file": "texts/plato-loeb/euthydemus.usfm"
+     "file": "texts/plato-loeb/euthydemus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg021.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "euthyphro",
      "title": "Euthyphro",
-     "file": "texts/plato-loeb/euthyphro.usfm"
+     "file": "texts/plato-loeb/euthyphro.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg001.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "gorgias",
      "title": "Gorgias",
-     "file": "texts/plato-loeb/gorgias.usfm"
+     "file": "texts/plato-loeb/gorgias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg023.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "greater-hippias",
      "title": "Greater Hippias",
-     "file": "texts/plato-loeb/greater-hippias.usfm"
+     "file": "texts/plato-loeb/greater-hippias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg025.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "hipparchus",
      "title": "Hipparchus",
-     "file": "texts/plato-loeb/hipparchus.usfm"
+     "file": "texts/plato-loeb/hipparchus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg015.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "ion",
      "title": "Ion",
-     "file": "texts/plato-loeb/ion.usfm"
+     "file": "texts/plato-loeb/ion.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg027.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "laches",
      "title": "Laches",
-     "file": "texts/plato-loeb/laches.usfm"
+     "file": "texts/plato-loeb/laches.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg019.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "laws",
      "title": "Laws",
-     "file": "texts/plato-loeb/laws.usfm"
+     "file": "texts/plato-loeb/laws.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg034.perseus-eng2",
+     "cite": "c.vp"
     },
     {
      "work": "lesser-hippias",
      "title": "Lesser Hippias",
-     "file": "texts/plato-loeb/lesser-hippias.usfm"
+     "file": "texts/plato-loeb/lesser-hippias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg026.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "letters",
      "title": "Letters",
-     "file": "texts/plato-loeb/letters.usfm"
+     "file": "texts/plato-loeb/letters.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg036.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "lovers",
      "title": "Lovers",
-     "file": "texts/plato-loeb/lovers.usfm"
+     "file": "texts/plato-loeb/lovers.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg016.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "lysis",
      "title": "Lysis",
-     "file": "texts/plato-loeb/lysis.usfm"
+     "file": "texts/plato-loeb/lysis.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg020.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "menexenus",
      "title": "Menexenus",
-     "file": "texts/plato-loeb/menexenus.usfm"
+     "file": "texts/plato-loeb/menexenus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg028.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "meno",
      "title": "Meno",
-     "file": "texts/plato-loeb/meno.usfm"
+     "file": "texts/plato-loeb/meno.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg024.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "minos",
      "title": "Minos",
-     "file": "texts/plato-loeb/minos.usfm"
+     "file": "texts/plato-loeb/minos.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg033.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "parmenides",
      "title": "Parmenides",
-     "file": "texts/plato-loeb/parmenides.usfm"
+     "file": "texts/plato-loeb/parmenides.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg009.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "phaedo",
      "title": "Phaedo",
-     "file": "texts/plato-loeb/phaedo.usfm"
+     "file": "texts/plato-loeb/phaedo.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg004.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "phaedrus",
      "title": "Phaedrus",
-     "file": "texts/plato-loeb/phaedrus.usfm"
+     "file": "texts/plato-loeb/phaedrus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg012.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "philebus",
      "title": "Philebus",
-     "file": "texts/plato-loeb/philebus.usfm"
+     "file": "texts/plato-loeb/philebus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg010.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "protagoras",
      "title": "Protagoras",
-     "file": "texts/plato-loeb/protagoras.usfm"
+     "file": "texts/plato-loeb/protagoras.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg022.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "republic",
      "title": "Republic",
-     "file": "texts/plato-loeb/republic.usfm"
+     "file": "texts/plato-loeb/republic.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg030.perseus-eng2",
+     "cite": "c.vp"
     },
     {
      "work": "sophist",
      "title": "Sophist",
-     "file": "texts/plato-loeb/sophist.usfm"
+     "file": "texts/plato-loeb/sophist.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg007.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "statesman",
      "title": "Statesman",
-     "file": "texts/plato-loeb/statesman.usfm"
+     "file": "texts/plato-loeb/statesman.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg008.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "symposium",
      "title": "Symposium",
-     "file": "texts/plato-loeb/symposium.usfm"
+     "file": "texts/plato-loeb/symposium.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg011.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "theaetetus",
      "title": "Theaetetus",
-     "file": "texts/plato-loeb/theaetetus.usfm"
+     "file": "texts/plato-loeb/theaetetus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg006.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "theages",
      "title": "Theages",
-     "file": "texts/plato-loeb/theages.usfm"
+     "file": "texts/plato-loeb/theages.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg017.perseus-eng2",
+     "cite": "vp"
     },
     {
      "work": "timaeus",
      "title": "Timaeus",
-     "file": "texts/plato-loeb/timaeus.usfm"
+     "file": "texts/plato-loeb/timaeus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg031.perseus-eng2",
+     "cite": "vp"
     }
    ]
   },
@@ -204,189 +276,297 @@
    "year": 1905,
    "original": true,
    "licence": "CC BY-SA 4.0",
-   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; Plato, Alcibiades 1",
+   "source": "Perseus Digital Library (https://www.perseus.tufts.edu/), CC BY-SA 4.0; github.com/PerseusDL/canonical-greekLit",
    "sections": 8552,
    "annotated_words": 560474,
    "works": [
     {
      "work": "alcibiades-1",
      "title": "Alcibiades 1",
-     "file": "texts/plato-burnet/alcibiades-1.usfm"
+     "file": "texts/plato-burnet/alcibiades-1.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg013.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/alcibiades-1.tsv"
     },
     {
      "work": "alcibiades-2",
      "title": "Alcibiades 2",
-     "file": "texts/plato-burnet/alcibiades-2.usfm"
+     "file": "texts/plato-burnet/alcibiades-2.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg014.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/alcibiades-2.tsv"
     },
     {
      "work": "apology",
      "title": "Apology",
-     "file": "texts/plato-burnet/apology.usfm"
+     "file": "texts/plato-burnet/apology.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg002.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/apology.tsv"
     },
     {
      "work": "charmides",
      "title": "Charmides",
-     "file": "texts/plato-burnet/charmides.usfm"
+     "file": "texts/plato-burnet/charmides.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg018.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/charmides.tsv"
     },
     {
      "work": "cleitophon",
      "title": "Cleitophon",
-     "file": "texts/plato-burnet/cleitophon.usfm"
+     "file": "texts/plato-burnet/cleitophon.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg029.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/cleitophon.tsv"
     },
     {
      "work": "cratylus",
      "title": "Cratylus",
-     "file": "texts/plato-burnet/cratylus.usfm"
+     "file": "texts/plato-burnet/cratylus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg005.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/cratylus.tsv"
     },
     {
      "work": "critias",
      "title": "Critias",
-     "file": "texts/plato-burnet/critias.usfm"
+     "file": "texts/plato-burnet/critias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg032.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/critias.tsv"
     },
     {
      "work": "crito",
      "title": "Crito",
-     "file": "texts/plato-burnet/crito.usfm"
+     "file": "texts/plato-burnet/crito.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg003.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/crito.tsv"
     },
     {
      "work": "epinomis",
      "title": "Epinomis",
-     "file": "texts/plato-burnet/epinomis.usfm"
+     "file": "texts/plato-burnet/epinomis.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg035.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/epinomis.tsv"
     },
     {
      "work": "euthydemus",
      "title": "Euthydemus",
-     "file": "texts/plato-burnet/euthydemus.usfm"
+     "file": "texts/plato-burnet/euthydemus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg021.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/euthydemus.tsv"
     },
     {
      "work": "euthyphro",
      "title": "Euthyphro",
-     "file": "texts/plato-burnet/euthyphro.usfm"
+     "file": "texts/plato-burnet/euthyphro.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg001.perseus-grc1",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/euthyphro.tsv"
     },
     {
      "work": "gorgias",
      "title": "Gorgias",
-     "file": "texts/plato-burnet/gorgias.usfm"
+     "file": "texts/plato-burnet/gorgias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg023.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/gorgias.tsv"
     },
     {
      "work": "greater-hippias",
      "title": "Greater Hippias",
-     "file": "texts/plato-burnet/greater-hippias.usfm"
+     "file": "texts/plato-burnet/greater-hippias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg025.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/greater-hippias.tsv"
     },
     {
      "work": "hipparchus",
      "title": "Hipparchus",
-     "file": "texts/plato-burnet/hipparchus.usfm"
+     "file": "texts/plato-burnet/hipparchus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg015.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/hipparchus.tsv"
     },
     {
      "work": "ion",
      "title": "Ion",
-     "file": "texts/plato-burnet/ion.usfm"
+     "file": "texts/plato-burnet/ion.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg027.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/ion.tsv"
     },
     {
      "work": "laches",
      "title": "Laches",
-     "file": "texts/plato-burnet/laches.usfm"
+     "file": "texts/plato-burnet/laches.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg019.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/laches.tsv"
     },
     {
      "work": "laws",
      "title": "Laws",
-     "file": "texts/plato-burnet/laws.usfm"
+     "file": "texts/plato-burnet/laws.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg034.perseus-grc2",
+     "cite": "c.vp",
+     "words": "texts/plato-burnet/words/laws.tsv"
     },
     {
      "work": "lesser-hippias",
      "title": "Lesser Hippias",
-     "file": "texts/plato-burnet/lesser-hippias.usfm"
+     "file": "texts/plato-burnet/lesser-hippias.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg026.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/lesser-hippias.tsv"
     },
     {
      "work": "letters",
      "title": "Letters",
-     "file": "texts/plato-burnet/letters.usfm"
+     "file": "texts/plato-burnet/letters.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg036.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/letters.tsv"
     },
     {
      "work": "lovers",
      "title": "Lovers",
-     "file": "texts/plato-burnet/lovers.usfm"
+     "file": "texts/plato-burnet/lovers.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg016.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/lovers.tsv"
     },
     {
      "work": "lysis",
      "title": "Lysis",
-     "file": "texts/plato-burnet/lysis.usfm"
+     "file": "texts/plato-burnet/lysis.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg020.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/lysis.tsv"
     },
     {
      "work": "menexenus",
      "title": "Menexenus",
-     "file": "texts/plato-burnet/menexenus.usfm"
+     "file": "texts/plato-burnet/menexenus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg028.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/menexenus.tsv"
     },
     {
      "work": "meno",
      "title": "Meno",
-     "file": "texts/plato-burnet/meno.usfm"
+     "file": "texts/plato-burnet/meno.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg024.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/meno.tsv"
     },
     {
      "work": "minos",
      "title": "Minos",
-     "file": "texts/plato-burnet/minos.usfm"
+     "file": "texts/plato-burnet/minos.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg033.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/minos.tsv"
     },
     {
      "work": "parmenides",
      "title": "Parmenides",
-     "file": "texts/plato-burnet/parmenides.usfm"
+     "file": "texts/plato-burnet/parmenides.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg009.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/parmenides.tsv"
     },
     {
      "work": "phaedo",
      "title": "Phaedo",
-     "file": "texts/plato-burnet/phaedo.usfm"
+     "file": "texts/plato-burnet/phaedo.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg004.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/phaedo.tsv"
     },
     {
      "work": "phaedrus",
      "title": "Phaedrus",
-     "file": "texts/plato-burnet/phaedrus.usfm"
+     "file": "texts/plato-burnet/phaedrus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg012.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/phaedrus.tsv"
     },
     {
      "work": "philebus",
      "title": "Philebus",
-     "file": "texts/plato-burnet/philebus.usfm"
+     "file": "texts/plato-burnet/philebus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg010.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/philebus.tsv"
     },
     {
      "work": "protagoras",
      "title": "Protagoras",
-     "file": "texts/plato-burnet/protagoras.usfm"
+     "file": "texts/plato-burnet/protagoras.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg022.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/protagoras.tsv"
     },
     {
      "work": "republic",
      "title": "Republic",
-     "file": "texts/plato-burnet/republic.usfm"
+     "file": "texts/plato-burnet/republic.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg030.perseus-grc2",
+     "cite": "c.vp",
+     "words": "texts/plato-burnet/words/republic.tsv"
     },
     {
      "work": "sophist",
      "title": "Sophist",
-     "file": "texts/plato-burnet/sophist.usfm"
+     "file": "texts/plato-burnet/sophist.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg007.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/sophist.tsv"
     },
     {
      "work": "statesman",
      "title": "Statesman",
-     "file": "texts/plato-burnet/statesman.usfm"
+     "file": "texts/plato-burnet/statesman.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg008.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/statesman.tsv"
     },
     {
      "work": "symposium",
      "title": "Symposium",
-     "file": "texts/plato-burnet/symposium.usfm"
+     "file": "texts/plato-burnet/symposium.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg011.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/symposium.tsv"
     },
     {
      "work": "theaetetus",
      "title": "Theaetetus",
-     "file": "texts/plato-burnet/theaetetus.usfm"
+     "file": "texts/plato-burnet/theaetetus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg006.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/theaetetus.tsv"
     },
     {
      "work": "theages",
      "title": "Theages",
-     "file": "texts/plato-burnet/theages.usfm"
+     "file": "texts/plato-burnet/theages.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg017.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/theages.tsv"
     },
     {
      "work": "timaeus",
      "title": "Timaeus",
-     "file": "texts/plato-burnet/timaeus.usfm"
+     "file": "texts/plato-burnet/timaeus.usfm",
+     "urn": "urn:cts:greekLit:tlg0059.tlg031.perseus-grc2",
+     "cite": "vp",
+     "words": "texts/plato-burnet/words/timaeus.tsv"
     }
    ]
   },
@@ -399,13 +579,15 @@
    "year": 1922,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "source": "https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
    "sections": 701,
    "works": [
     {
      "work": "bhagavad-gita",
      "title": "Bhagavad Gita",
-     "file": "texts/gita-besant/bhagavad-gita.usfm"
+     "file": "texts/gita-besant/bhagavad-gita.usfm",
+     "urn": "urn:cts:anagnosis:mahabharata.bhagavadgita.besant-eng",
+     "cite": "c.vp"
     }
    ]
   },
@@ -418,13 +600,15 @@
    "year": 1922,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Wikisource, Bhagavad-Gita (Besant 4th), https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
+   "source": "https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)",
    "sections": 701,
    "works": [
     {
      "work": "bhagavad-gita",
      "title": "Bhagavad Gita",
-     "file": "texts/gita-sanskrit/bhagavad-gita.usfm"
+     "file": "texts/gita-sanskrit/bhagavad-gita.usfm",
+     "urn": "urn:cts:anagnosis:mahabharata.bhagavadgita.sanskrit-san",
+     "cite": "c.vp"
     }
    ]
   },
@@ -437,23 +621,29 @@
    "year": 1867,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Project Gutenberg 1004, https://www.gutenberg.org/ebooks/1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
    "sections": 14233,
    "works": [
     {
      "work": "inferno",
      "title": "Inferno",
-     "file": "texts/dante-longfellow/inferno.usfm"
+     "file": "texts/dante-longfellow/inferno.usfm",
+     "urn": "urn:cts:anagnosis:dante.inferno.longfellow-eng",
+     "cite": "c.vp"
     },
     {
      "work": "paradiso",
      "title": "Paradiso",
-     "file": "texts/dante-longfellow/paradiso.usfm"
+     "file": "texts/dante-longfellow/paradiso.usfm",
+     "urn": "urn:cts:anagnosis:dante.paradiso.longfellow-eng",
+     "cite": "c.vp"
     },
     {
      "work": "purgatorio",
      "title": "Purgatorio",
-     "file": "texts/dante-longfellow/purgatorio.usfm"
+     "file": "texts/dante-longfellow/purgatorio.usfm",
+     "urn": "urn:cts:anagnosis:dante.purgatorio.longfellow-eng",
+     "cite": "c.vp"
     }
    ]
   },
@@ -466,23 +656,29 @@
    "year": 1321,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Project Gutenberg 1012, https://www.gutenberg.org/ebooks/1012",
+   "source": "https://www.gutenberg.org/ebooks/1012",
    "sections": 14233,
    "works": [
     {
      "work": "inferno",
      "title": "Inferno",
-     "file": "texts/dante-italian/inferno.usfm"
+     "file": "texts/dante-italian/inferno.usfm",
+     "urn": "urn:cts:anagnosis:dante.inferno.gutenberg-ita",
+     "cite": "c.vp"
     },
     {
      "work": "paradiso",
      "title": "Paradiso",
-     "file": "texts/dante-italian/paradiso.usfm"
+     "file": "texts/dante-italian/paradiso.usfm",
+     "urn": "urn:cts:anagnosis:dante.paradiso.gutenberg-ita",
+     "cite": "c.vp"
     },
     {
      "work": "purgatorio",
      "title": "Purgatorio",
-     "file": "texts/dante-italian/purgatorio.usfm"
+     "file": "texts/dante-italian/purgatorio.usfm",
+     "urn": "urn:cts:anagnosis:dante.purgatorio.gutenberg-ita",
+     "cite": "c.vp"
     }
    ]
   },
@@ -495,18 +691,22 @@
    "year": 1906,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "G. R. S. Mead, Thrice-Greatest Hermes, vol. II (London, 1906); archive.org thricegreatesthe02hermuoft (OCR, corrected)",
+   "source": "Thrice-Greatest Hermes, vol. II (London, 1906), archive.org thricegreatesthe02hermuoft; OCR, corrected",
    "sections": 275,
    "works": [
     {
      "work": "asclepius",
      "title": "Asclepius",
-     "file": "texts/hermetica-mead/asclepius.usfm"
+     "file": "texts/hermetica-mead/asclepius.usfm",
+     "urn": "urn:cts:anagnosis:hermetica.asclepius.mead-eng",
+     "cite": "vp"
     },
     {
      "work": "ch",
      "title": "Corpus Hermeticum",
-     "file": "texts/hermetica-mead/ch.usfm"
+     "file": "texts/hermetica-mead/ch.usfm",
+     "urn": "urn:cts:anagnosis:hermetica.ch.mead-eng",
+     "cite": "cp.vp"
     }
    ]
   },
@@ -519,13 +719,15 @@
    "year": 1891,
    "original": false,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Project Gutenberg 216 (James Legge, The Tao Teh King, 1891)",
+   "source": "Project Gutenberg 216 (The Tao Teh King, Sacred Books of the East 39)",
    "sections": 81,
    "works": [
     {
      "work": "tao-te-ching",
      "title": "Tao Te Ching",
-     "file": "texts/chinese-legge/tao-te-ching.usfm"
+     "file": "texts/chinese-legge/tao-te-ching.usfm",
+     "urn": "urn:cts:anagnosis:laozi.daodejing.legge-eng",
+     "cite": "vp"
     }
    ]
   },
@@ -538,13 +740,15 @@
    "year": 249,
    "original": true,
    "licence": "Public domain text; markup CC0 1.0",
-   "source": "Wikisource (zh), 道德經 (王弼本), with Wang Bi's commentary as notes",
+   "source": "Wikisource (zh), 道德經 (王弼本)",
    "sections": 81,
    "works": [
     {
      "work": "tao-te-ching",
      "title": "Tao Te Ching",
-     "file": "texts/chinese-wangbi/tao-te-ching.usfm"
+     "file": "texts/chinese-wangbi/tao-te-ching.usfm",
+     "urn": "urn:cts:anagnosis:laozi.daodejing.wangbi-lzh",
+     "cite": "vp"
     }
    ]
   }
