@@ -34,6 +34,14 @@ traditions around it. They are published here so that anyone can read them, buil
 | Pirkei Avot | Hebrew | he | 1 | 108 | [mishnah-original](texts/mishnah-original) | Public domain text; markup CC0 1.0 |
 | Zohar | Soncino (1933) | English | 1 | 11,296 | [kabbalah-zohar](texts/kabbalah-zohar) | Public domain (Soncino, 1933); gaps from Sefaria's community translation, CC0; markup CC0 1.0 |
 
+## Books
+
+Every edition here is also an EPUB book, for any e-reader (Send to Kindle takes EPUB): the table of contents by
+book and chapter, speakers named, verse in its lines, the edition's notes as pop-up endnotes, and the original after
+each paragraph of the translation (the Greek after the Loeb Plato, the Sanskrit after Besant's Gita, the Italian after
+Longfellow's Dante). One book for each of Plato's dialogues. Download them from the
+[books release](https://github.com/rewtraw/anagnosis-texts/releases/tag/books); each is checked with epubcheck.
+
 ## Why USFM
 
 USFM is the plain-text format Bible translations are exchanged in. It is readable and editable by hand, its changes
