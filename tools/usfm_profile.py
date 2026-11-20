@@ -284,12 +284,14 @@ def check_words(usfm, tsv):
     return problems
 
 
-def speeches_from_labels(sections, starts=None):
+def speeches_from_labels(sections, starts=None, narration=None):
     """Speeches where an edition prints only its speakers' labels ("Arjuna said:", "Hermes."): each label's speech runs
     to the next label, across sections, and ends with them (a chapter, a tractate: pass one unit at a time).
     sections: [(ref, text, marks)] in order → the same, each with its say marks (one per section a speech crosses),
     any say marks it had replaced. starts: {section index: speaker} for a turn the edition prints no label for (the
-    Gita's English at 6.33, where the Sanskrit has one): it begins at the section's start."""
+    Gita's English at 6.33, where the Sanskrit has one): it begins at the section's start. narration: whether a
+    paragraph is the narrator's (Mead's Asclepius: "Whom when Thrice-greatest heard, he grew distressed and said:"),
+    which no speech includes."""
     labels = [(i, m[1], m[3]) for i, (_, _, marks) in enumerate(sections) for m in sorted(marks, key=ORDER) if m[0] == "sp"]
     labels = sorted(labels + [(i, 0, who) for i, who in (starts or {}).items()
                               if not any(j == i and a == 0 for j, a, _ in labels)])
@@ -304,5 +306,26 @@ def speeches_from_labels(sections, starts=None):
                 hi -= 1
             if hi > lo:
                 adds.setdefault(k, []).append(["say", lo, hi, who])
+    if narration:
+        for k, says in adds.items():
+            text = sections[k][1]
+            told = [(m.start(1), m.end(1)) for m in re.finditer(r"(?:^|\n\n)([^\n]+)", text) if narration(m.group(1))]
+            if not told:
+                continue
+            cut = []
+            for _, lo, hi, who in says:
+                for a, b in told:  # the speech, less the narrator's paragraphs within it
+                    if a < hi and b > lo:
+                        if a > lo:
+                            cut.append(["say", lo, a, who])
+                        lo = b
+                while lo < hi and text[lo].isspace():
+                    lo += 1
+                if hi > lo:
+                    cut.append(["say", lo, hi, who])
+            for m in cut:
+                while m[2] > m[1] and text[m[2] - 1].isspace():
+                    m[2] -= 1
+            adds[k] = [m for m in cut if m[2] > m[1]]
     return [(ref, text, sorted([m for m in marks if m[0] != "say"] + adds.get(k, []), key=ORDER))
             for k, (ref, text, marks) in enumerate(sections)]
