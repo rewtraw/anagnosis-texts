@@ -33,6 +33,20 @@ traditions around it. They are published here so that anyone can read them, buil
 | Pirkei Avot | Kulp (2007) | English | 1 | 108 | [mishnah-kulp](texts/mishnah-kulp) | CC BY 4.0 (Joshua Kulp, Mishnah Yomit, via Sefaria); markup CC0 1.0 |
 | Pirkei Avot | Hebrew | he | 1 | 108 | [mishnah-original](texts/mishnah-original) | Public domain text; markup CC0 1.0 |
 | Zohar | Soncino (1933) | English | 1 | 11,296 | [kabbalah-zohar](texts/kabbalah-zohar) | Public domain (Soncino, 1933); gaps from Sefaria's community translation, CC0; markup CC0 1.0 |
+| 2 Enoch | Morfill & Charles (1896) | English | 1 | 361 | [jewish-morfill](texts/jewish-morfill) | Public domain text; markup CC0 1.0 |
+| 3 Enoch | Odeberg (1928) | English | 1 | 342 | [jewish-odeberg](texts/jewish-odeberg) | Public domain in the US; markup CC0 1.0 |
+| Ascension of Isaiah | Charles (1900) | English | 1 | 296 | [jewish-charles](texts/jewish-charles) | Public domain text; markup CC0 1.0 |
+| Apocalypse of Abraham | Box (1918) | English | 1 | 65 | [jewish-box](texts/jewish-box) | Public domain text; markup CC0 1.0 |
+| Homeric Hymn to Demeter | Evelyn-White (1914) | English | 1 | 42 | [greek-evelynwhite](texts/greek-evelynwhite) | Public domain text; markup CC0 1.0 |
+| Orphic gold tablets | Murray (1903) | English | 1 | 6 | [greek-murray](texts/greek-murray) | Public domain in the US; markup CC0 1.0 |
+| Orphic Hymns | Taylor (1792) | English | 1 | 87 | [greek-taylor](texts/greek-taylor) | Public domain text; markup CC0 1.0 |
+| Mithras Liturgy | Mead (1907) | English | 1 | 14 | [greek-mead](texts/greek-mead) | Public domain text; markup CC0 1.0 |
+| Chaldean Oracles | Westcott (1895) | English | 1 | 201 | [greek-westcott](texts/greek-westcott) | Public domain text; markup CC0 1.0 |
+| Apuleius, The Golden Ass | Butler (1910) | English | 1 | 339 | [latin-apuleius-butler](texts/latin-apuleius-butler) | Public domain text; markup CC0 1.0 |
+| Hymn of the Pearl | Mead (1908) | English | 1 | 104 | [gnostic-mead](texts/gnostic-mead) | Public domain text; markup CC0 1.0 |
+| Arda Viraf | Haug & West (1872) | English | 1 | 964 | [persian-haug](texts/persian-haug) | Public domain text; markup CC0 1.0 |
+| Upanishads | Müller (1879–1884) | English | 10 | 1,563 | [indian-muller](texts/indian-muller) | Public domain text; markup CC0 1.0 |
+| Book of the Dead | Budge (1895) | English | 1 | 308 | [egyptian-budge](texts/egyptian-budge) | Public domain text; markup CC0 1.0 |
 
 ## Books
 

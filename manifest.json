@@ -1040,6 +1040,363 @@
      "cite": "cp.vp"
     }
    ]
+  },
+  {
+   "edition": "morfill.en",
+   "name": "Morfill & Charles (1896)",
+   "group": "2 Enoch",
+   "language": "en",
+   "translator": "W. R. Morfill (ed. R. H. Charles)",
+   "year": 1896,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "The Book of the Secrets of Enoch, translated from the Slavonic by W. R. Morfill, edited by R. H. Charles (Oxford: Clarendon Press, 1896): archive.org items bookofsecretsofe00morf and cu31924014633568 (two scans of the 1896 edition), their character-level OCR collated and corrected by hand; Charles's introduction, apparatus, commentary and the Melchizedek appendix left out.",
+   "sections": 361,
+   "works": [
+    {
+     "work": "2-enoch",
+     "title": "2 Enoch (The Book of the Secrets of Enoch)",
+     "file": "texts/jewish-morfill/2-enoch.usfm",
+     "urn": "urn:cts:anagnosis:pseudepigrapha.2enoch.morfill-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "odeberg.en",
+   "name": "Odeberg (1928)",
+   "group": "3 Enoch",
+   "language": "en",
+   "translator": "Hugo Odeberg",
+   "year": 1928,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Hugo Odeberg, 3 Enoch or the Hebrew Book of Enoch (Cambridge University Press, 1928), Part II, the translation: archive.org items ksigaxiienochorthehebrewbookofenoch_202012 and 3enochorhebrewbo00unse (two scans of the 1928 edition), their character-level OCR collated and corrected by hand; Odeberg's introduction, apparatus, commentary and the Hebrew text left out.",
+   "sections": 342,
+   "works": [
+    {
+     "work": "3-enoch",
+     "title": "3 Enoch (The Hebrew Book of Enoch)",
+     "file": "texts/jewish-odeberg/3-enoch.usfm",
+     "urn": "urn:cts:anagnosis:pseudepigrapha.3enoch.odeberg-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "charles.en",
+   "name": "Charles (1900)",
+   "group": "Ascension of Isaiah",
+   "language": "en",
+   "translator": "R. H. Charles",
+   "year": 1900,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "archive.org apocalypseofabra00boxg, apocalypseofabrabgh00boxg, cu31924010244048 and apocalypseofabra0000ghbo (scans of R. H. Charles, The Ascension of Isaiah, SPCK 1918/1919, Translations of Early Documents, reprinting his translation of the Ethiopic, A. & C. Black 1900), OCR collated and corrected by hand",
+   "sections": 296,
+   "works": [
+    {
+     "work": "ascension-of-isaiah",
+     "title": "Ascension of Isaiah",
+     "file": "texts/jewish-charles/ascension-of-isaiah.usfm",
+     "urn": "urn:cts:anagnosis:pseudepigrapha.ascensionofisaiah.charles-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "box.en",
+   "name": "Box (1918)",
+   "group": "Apocalypse of Abraham",
+   "language": "en",
+   "translator": "G. H. Box, with J. I. Landsman",
+   "year": 1918,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "archive.org apocalypseofabra00boxg, apocalypseofabrabgh00boxg, cu31924010244048 and apocalypseofabra0000ghbo (scans of G. H. Box, The Apocalypse of Abraham, SPCK 1918/1919, Translations of Early Documents), OCR collated and corrected by hand",
+   "sections": 65,
+   "works": [
+    {
+     "work": "apocalypse-of-abraham",
+     "title": "Apocalypse of Abraham",
+     "file": "texts/jewish-box/apocalypse-of-abraham.usfm",
+     "urn": "urn:cts:anagnosis:pseudepigrapha.apocalypseofabraham.box-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "evelynwhite.en",
+   "name": "Evelyn-White (1914)",
+   "group": "Homeric Hymn to Demeter",
+   "language": "en",
+   "translator": "Hugh G. Evelyn-White",
+   "year": 1914,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Project Gutenberg 348, Hesiod, the Homeric Hymns, and Homerica (H. G. Evelyn-White, Loeb Classical Library, 1914): the Hymn to Demeter (II); paragraphs cited by the Greek line each begins at",
+   "sections": 42,
+   "works": [
+    {
+     "work": "hymn-to-demeter",
+     "title": "Homeric Hymn to Demeter",
+     "file": "texts/greek-evelynwhite/hymn-to-demeter.usfm",
+     "urn": "urn:cts:anagnosis:homeric-hymns.hymntodemeter.evelynwhite-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "murray.en",
+   "name": "Murray (1903)",
+   "group": "Orphic gold tablets",
+   "language": "en",
+   "translator": "Gilbert Murray",
+   "year": 1903,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Jane Ellen Harrison, Prolegomena to the Study of Greek Religion (Cambridge, 1903), Critical Appendix on the Orphic Tablets by Gilbert Murray, pp. 659-674: archive.org scans prolegomenatostu00harruoft and prolegomenatostu00harrrich (OCR, collated and checked against the page images)",
+   "sections": 6,
+   "works": [
+    {
+     "work": "orphic-gold-tablets",
+     "title": "Orphic Gold Tablets",
+     "file": "texts/greek-murray/orphic-gold-tablets.usfm",
+     "urn": "urn:cts:anagnosis:orphica.orphicgoldtablets.murray-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "taylor.en",
+   "name": "Taylor (1792)",
+   "group": "Orphic Hymns",
+   "language": "en",
+   "translator": "Thomas Taylor",
+   "year": 1792,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "https://sacred-texts.com/book/the-hymns-of-orpheus (sacred-texts.com transcription of Thomas Taylor, The Hymns of Orpheus, London, 1792): the hymns only, without Taylor's introduction and notes",
+   "sections": 87,
+   "works": [
+    {
+     "work": "orphic-hymns",
+     "title": "The Orphic Hymns",
+     "file": "texts/greek-taylor/orphic-hymns.usfm",
+     "urn": "urn:cts:anagnosis:orphica.orphichymns.taylor-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "mead1907.en",
+   "name": "Mead (1907)",
+   "group": "Mithras Liturgy",
+   "language": "en",
+   "translator": "G. R. S. Mead",
+   "year": 1907,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "G. R. S. Mead, A Mithriac Ritual (Echoes from the Gnosis, vol. VI, London and Benares: Theosophical Publishing Society, 1907), pp. 18-33, \"The Ritual\" only (his preamble and comments left out); transcribed from the archive.org scan, item amythicritu06meaduoft, its OCR corrected against the page images. Mead translates Dieterich's text of the Paris Magical Papyrus (PGM IV 475-829); his italics (the prayers, as against the rubrics) are not kept.",
+   "sections": 14,
+   "works": [
+    {
+     "work": "mithras-liturgy",
+     "title": "The Mithras Liturgy",
+     "file": "texts/greek-mead/mithras-liturgy.usfm",
+     "urn": "urn:cts:anagnosis:pgm.mithrasliturgy.mead-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "westcott.en",
+   "name": "Westcott (1895)",
+   "group": "Chaldean Oracles",
+   "language": "en",
+   "translator": "Thomas Taylor (with I. P. Cory), edited by W. Wynn Westcott",
+   "year": 1895,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com/eso/coz/ (transcription of The Chaldæan Oracles of Zoroaster, ed. W. Wynn Westcott, Collectanea Hermetica vol. VI, London 1895), read from the Wayback Machine's copies of coz03–coz08.htm; oracles only, without Westcott's source notes, comments, preface and introduction",
+   "sections": 201,
+   "works": [
+    {
+     "work": "chaldean-oracles",
+     "title": "Chaldean Oracles",
+     "file": "texts/greek-westcott/chaldean-oracles.usfm",
+     "urn": "urn:cts:anagnosis:chaldean-oracles.chaldeanoracles.westcott-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "butler.en",
+   "name": "Butler (1910)",
+   "group": "Apuleius, The Golden Ass",
+   "language": "en",
+   "translator": "H. E. Butler",
+   "year": 1910,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "H. E. Butler, The Metamorphoses or Golden Ass of Apuleius of Madaura (Oxford: Clarendon Press, 1910), 2 vols.; the OCR of the archive.org scans metamorphosesorg01apuluoft and metamorphosesorg02apuluoft (DjVu XML), cleaned of running heads, page numbers, margin numbers and footnotes and corrected against the page images where the OCR was doubtful. Introduction, preface and end-notes left out. Cited by book and the standard chapter numbers Butler prints in the margin; a chapter begins where his margin number stands (where it stands beside a line holding more than one sentence, or the OCR lost it, by the Latin).",
+   "sections": 339,
+   "works": [
+    {
+     "work": "golden-ass",
+     "title": "The Golden Ass",
+     "file": "texts/latin-apuleius-butler/golden-ass.usfm",
+     "urn": "urn:cts:anagnosis:apuleius.goldenass.butler-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "mead.en",
+   "name": "Mead (1908)",
+   "group": "Hymn of the Pearl",
+   "language": "en",
+   "translator": "G. R. S. Mead",
+   "year": 1908,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "G. R. S. Mead, The Hymn of the Robe of Glory (Echoes from the Gnosis, vol. X), London and Benares: Theosophical Publishing Society, 1908, pp. 15–29; transcribed from the page images of archive.org hymnoftherobe10meaduoft (University of Toronto copy). The hymn only, without Mead's introduction and comments",
+   "sections": 104,
+   "works": [
+    {
+     "work": "hymn-of-the-pearl",
+     "title": "The Hymn of the Pearl",
+     "file": "texts/gnostic-mead/hymn-of-the-pearl.usfm",
+     "urn": "urn:cts:anagnosis:acts-of-thomas.hymnofthepearl.mead-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "haug.en",
+   "name": "Haug & West (1872)",
+   "group": "Arda Viraf",
+   "language": "en",
+   "translator": "Martin Haug, with E. W. West",
+   "year": 1872,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "The Book of Arda Viraf, the Pahlavi text prepared by Destur Hoshangji Jamaspji Asa, revised and collated with further MSS., with an English translation and introduction ... by Martin Haug, assisted by E. W. West (Bombay and London, 1872), pp. 141–204, the English translation only; read with OCR from the page images of archive.org bookofardaviraf00haug and corrected against them. Haug's italics (words supplied in the translation) are not marked; his footnotes are left out",
+   "sections": 964,
+   "works": [
+    {
+     "work": "arda-viraf",
+     "title": "The Book of Arda Viraf",
+     "file": "texts/persian-haug/arda-viraf.usfm",
+     "urn": "urn:cts:anagnosis:arda-viraf.ardaviraf.haug-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "muller.en",
+   "name": "Müller (1879–1884)",
+   "group": "Upanishads",
+   "language": "en",
+   "translator": "F. Max Müller",
+   "year": 1884,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com, hin/sbe01 and hin/sbe15 (transcriptions of The Upanishads, Sacred Books of the East vols. 1, 1879, and 15, 1884), via the Wayback Machine; Aitareya = Aitareya-âranyaka II, 4–6",
+   "sections": 1563,
+   "works": [
+    {
+     "work": "aitareya-upanishad",
+     "title": "Aitareya Upanishad",
+     "file": "texts/indian-muller/aitareya-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.aitareyaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "brihadaranyaka-upanishad",
+     "title": "Brihadâranyaka Upanishad",
+     "file": "texts/indian-muller/brihadaranyaka-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.brihadaranyakaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "chandogya-upanishad",
+     "title": "Khândogya Upanishad",
+     "file": "texts/indian-muller/chandogya-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.chandogyaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "isa-upanishad",
+     "title": "Vâgasaneyi-samhitâ (Isa) Upanishad",
+     "file": "texts/indian-muller/isa-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.isaupanishad.muller-eng",
+     "cite": "vp"
+    },
+    {
+     "work": "katha-upanishad",
+     "title": "Katha Upanishad",
+     "file": "texts/indian-muller/katha-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.kathaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "kena-upanishad",
+     "title": "Talavakâra (Kena) Upanishad",
+     "file": "texts/indian-muller/kena-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.kenaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "mundaka-upanishad",
+     "title": "Mundaka Upanishad",
+     "file": "texts/indian-muller/mundaka-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.mundakaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "prasna-upanishad",
+     "title": "Prasña Upanishad",
+     "file": "texts/indian-muller/prasna-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.prasnaupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "svetasvatara-upanishad",
+     "title": "Svetâsvatara Upanishad",
+     "file": "texts/indian-muller/svetasvatara-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.svetasvataraupanishad.muller-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "taittiriya-upanishad",
+     "title": "Taittirîya Upanishad",
+     "file": "texts/indian-muller/taittiriya-upanishad.usfm",
+     "urn": "urn:cts:anagnosis:upanishads.taittiriyaupanishad.muller-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "budge.en",
+   "name": "Budge (1895)",
+   "group": "Book of the Dead",
+   "language": "en",
+   "translator": "E. A. Wallis Budge",
+   "year": 1895,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com, egy/ebod (transcription of E. A. Wallis Budge, The Book of the Dead: The Papyrus of Ani in the British Museum, 1895, the Translation, pp. 245–369), via the Wayback Machine; chapters in the papyrus's order, a chapter that occurs more than once lettered a, b, c",
+   "sections": 308,
+   "works": [
+    {
+     "work": "book-of-the-dead",
+     "title": "The Book of the Dead (Papyrus of Ani)",
+     "file": "texts/egyptian-budge/book-of-the-dead.usfm",
+     "urn": "urn:cts:anagnosis:book-of-the-dead.bookofthedead.budge-eng",
+     "cite": "cp.vp"
+    }
+   ]
   }
  ]
 }
