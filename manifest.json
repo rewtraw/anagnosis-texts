@@ -1084,6 +1084,76 @@
    ]
   },
   {
+   "edition": "budge-ehh.en",
+   "name": "Budge (1905)",
+   "group": "The Amduat and the Book of Gates",
+   "language": "en",
+   "translator": "E. A. Wallis Budge",
+   "year": 1905,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com, egy/bat and egy/gate (transcription of E. A. Wallis Budge, The Egyptian Heaven and Hell, London 1905: vol. I, The Book Am-Tuat; vol. II, The Short Form of the Book Am-Tuat and the Book of Gates), via the Wayback Machine, checked against the archive.org scans of the 1905 volumes (theegyptianheave01budgiala, egyptianheavena00unkngoog); the translations only, Budge's descriptions of the scenes, notes and introductions left out",
+   "sections": 363,
+   "works": [
+    {
+     "work": "amduat",
+     "title": "The Book of What Is in the Underworld (Amduat)",
+     "file": "texts/egyptian-budge-ehh/amduat.usfm",
+     "urn": "urn:cts:anagnosis:underworld-books.amduat.budge-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "book-of-gates",
+     "title": "The Book of Gates",
+     "file": "texts/egyptian-budge-ehh/book-of-gates.usfm",
+     "urn": "urn:cts:anagnosis:underworld-books.bookofgates.budge-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "mercer.en",
+   "name": "Mercer (1952)",
+   "group": "The Pyramid Texts",
+   "language": "en",
+   "translator": "Samuel A. B. Mercer",
+   "year": 1952,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "sacred-texts.com, egy/pyt (J. B. Hare's transcription of Samuel A. B. Mercer, The Pyramid Texts in Translation and Commentary, vol. 1, Longmans, Green, New York, London, Toronto, 1952: the translation of the utterances), via the Wayback Machine; by utterance and Sethe's paragraph (§) as Mercer prints them, his line labels (1a, 1b ...) left out; not yet read against a scan (HathiTrust uva.x000540640)",
+   "sections": 2367,
+   "works": [
+    {
+     "work": "pyramid-texts",
+     "title": "The Pyramid Texts",
+     "file": "texts/egyptian-mercer/pyramid-texts.usfm",
+     "urn": "urn:cts:anagnosis:pyramid-texts.pyramidtexts.mercer-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "babbitt.en",
+   "name": "Babbitt (1936)",
+   "group": "Plutarch, On Isis and Osiris",
+   "language": "en",
+   "translator": "Frank Cole Babbitt",
+   "year": 1936,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Plutarch's Moralia, vol. V, with an English translation by Frank Cole Babbitt (Loeb Classical Library 306, Cambridge, Mass. and London, 1936), pp. 7-191, Isis and Osiris; Bill Thayer's hand transcription on LacusCurtius, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Isis_and_Osiris*/home.html (pages A-E), checked against the archive.org scan of the volume, item plutarchs-moralia-vol.-5-loeb-306. Babbitt's notes, Thayer's notes and markers left out; chapters as the Loeb numbers them.",
+   "sections": 80,
+   "works": [
+    {
+     "work": "isis-and-osiris",
+     "title": "On Isis and Osiris",
+     "file": "texts/greek-babbitt/isis-and-osiris.usfm",
+     "urn": "urn:cts:anagnosis:plutarch.isisandosiris.babbitt-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
    "edition": "charles.en",
    "name": "Charles (1900)",
    "group": "Ascension of Isaiah",

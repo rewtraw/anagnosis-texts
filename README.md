@@ -35,6 +35,9 @@ traditions around it. They are published here so that anyone can read them, buil
 | Zohar | Soncino (1933) | English | 1 | 11,296 | [kabbalah-zohar](texts/kabbalah-zohar) | Public domain (Soncino, 1933); gaps from Sefaria's community translation, CC0; markup CC0 1.0 |
 | 2 Enoch | Morfill & Charles (1896) | English | 1 | 361 | [jewish-morfill](texts/jewish-morfill) | Public domain text; markup CC0 1.0 |
 | 3 Enoch | Odeberg (1928) | English | 1 | 342 | [jewish-odeberg](texts/jewish-odeberg) | Public domain in the US; markup CC0 1.0 |
+| The Amduat and the Book of Gates | Budge (1905) | English | 2 | 363 | [egyptian-budge-ehh](texts/egyptian-budge-ehh) | Public domain text; markup CC0 1.0 |
+| The Pyramid Texts | Mercer (1952) | English | 1 | 2,367 | [egyptian-mercer](texts/egyptian-mercer) | Public domain in the US; markup CC0 1.0 |
+| Plutarch, On Isis and Osiris | Babbitt (1936) | English | 1 | 80 | [greek-babbitt](texts/greek-babbitt) | Public domain in the US; markup CC0 1.0 |
 | Ascension of Isaiah | Charles (1900) | English | 1 | 296 | [jewish-charles](texts/jewish-charles) | Public domain text; markup CC0 1.0 |
 | Apocalypse of Abraham | Box (1918) | English | 1 | 65 | [jewish-box](texts/jewish-box) | Public domain text; markup CC0 1.0 |
 | Homeric Hymn to Demeter | Evelyn-White (1914) | English | 1 | 42 | [greek-evelynwhite](texts/greek-evelynwhite) | Public domain text; markup CC0 1.0 |
