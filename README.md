@@ -45,7 +45,7 @@ traditions around it. They are published here so that anyone can read them, buil
 | Apuleius, The Golden Ass | Butler (1910) | English | 1 | 339 | [latin-apuleius-butler](texts/latin-apuleius-butler) | Public domain text; markup CC0 1.0 |
 | Hymn of the Pearl | Mead (1908) | English | 1 | 104 | [gnostic-mead](texts/gnostic-mead) | Public domain text; markup CC0 1.0 |
 | Arda Viraf | Haug & West (1872) | English | 1 | 964 | [persian-haug](texts/persian-haug) | Public domain text; markup CC0 1.0 |
-| Upanishads | Müller (1879–1884) | English | 10 | 1,563 | [indian-muller](texts/indian-muller) | Public domain text; markup CC0 1.0 |
+| Upanishads | Müller (1879–1884) | English | 10 | 1,569 | [indian-muller](texts/indian-muller) | Public domain text; markup CC0 1.0 |
 | Book of the Dead | Budge (1895) | English | 1 | 308 | [egyptian-budge](texts/egyptian-budge) | Public domain text; markup CC0 1.0 |
 
 ## Books
