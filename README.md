@@ -50,6 +50,14 @@ traditions around it. They are published here so that anyone can read them, buil
 | Arda Viraf | Haug & West (1872) | English | 1 | 964 | [persian-haug](texts/persian-haug) | Public domain text; markup CC0 1.0 |
 | Upanishads | Müller (1879–1884) | English | 10 | 1,569 | [indian-muller](texts/indian-muller) | Public domain text; markup CC0 1.0 |
 | Book of the Dead | Budge (1895) | English | 1 | 308 | [egyptian-budge](texts/egyptian-budge) | Public domain text; markup CC0 1.0 |
+| Iamblichus and Porphyry | Taylor (1821, 1823) | English | 2 | 158 | [greek-taylor2](texts/greek-taylor2) | Public domain text; markup CC0 1.0 |
+| Rosicrucian Manifestos and Chymical Wedding | Waite (1887) | English | 3 | 132 | [rosicrucian-waite](texts/rosicrucian-waite) | Public domain text; markup CC0 1.0 |
+| Turba Philosophorum | Waite (1896) | English | 1 | 74 | [alchemy-waite](texts/alchemy-waite) | Public domain text; markup CC0 1.0 |
+| Dhammapada | Müller (1881) | English | 1 | 414 | [indian-muller2](texts/indian-muller2) | Public domain text; markup CC0 1.0 |
+| The Tibetan Book of the Dead | Evans-Wentz (1927) | English | 1 | 452 | [tibetan-evanswentz](texts/tibetan-evanswentz) | Public domain in the US; markup CC0 1.0 |
+| Pistis Sophia | Mead (1921) | English | 1 | 150 | [gnostic-mead2](texts/gnostic-mead2) | Public domain in the US; markup CC0 1.0 |
+| The Mandaean John | Mead (1924) | English | 1 | 271 | [mandaean-mead](texts/mandaean-mead) | Public domain in the US; markup CC0 1.0 |
+| Of the Supersensual Life | Law edition (1781) | English | 1 | 122 | [mystics-law](texts/mystics-law) | Public domain text; markup CC0 1.0 |
 
 ## Books
 

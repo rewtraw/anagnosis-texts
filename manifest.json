@@ -1467,6 +1467,195 @@
      "cite": "cp.vp"
     }
    ]
+  },
+  {
+   "edition": "taylor2.en",
+   "name": "Taylor (1821, 1823)",
+   "group": "Iamblichus and Porphyry",
+   "language": "en",
+   "translator": "Thomas Taylor",
+   "year": 1821,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Iamblichus on the Mysteries of the Egyptians, Chaldeans, and Assyrians, translated by Thomas Taylor (Chiswick: C. Whittingham, 1821), as Project Gutenberg 72815 transcribed it from the page-for-page second edition (London: Bertram Dobell, 1895), https://www.gutenberg.org/ebooks/72815, checked against the archive.org scan of the 1821 edition, item b29338888_0002; and Porphyry, On the Cave of the Nymphs in the Thirteenth Book of the Odyssey, in Select Works of Porphyry, translated by Thomas Taylor (London: Thomas Rodd, 1823), as Project Gutenberg 77014 transcribed it, https://www.gutenberg.org/ebooks/77014, checked against the archive.org scan of the 1823 volume, item selectworksporp00taylgoog. Taylor's introductions, the Epistle of Porphyry to Anebo, his footnotes and Additional Notes left out; departures of the transcriptions from the print restored.",
+   "sections": 158,
+   "works": [
+    {
+     "work": "cave-of-the-nymphs",
+     "title": "On the Cave of the Nymphs",
+     "file": "texts/greek-taylor2/cave-of-the-nymphs.usfm",
+     "urn": "urn:cts:anagnosis:platonists.caveofthenymphs.taylor-eng",
+     "cite": "vp"
+    },
+    {
+     "work": "on-the-mysteries",
+     "title": "On the Mysteries",
+     "file": "texts/greek-taylor2/on-the-mysteries.usfm",
+     "urn": "urn:cts:anagnosis:platonists.onthemysteries.taylor-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "waite.en",
+   "name": "Waite (1887)",
+   "group": "Rosicrucian Manifestos and Chymical Wedding",
+   "language": "en",
+   "translator": "Thomas Vaughan (Fama, Confessio, 1652; the Confessio revised by A. E. Waite); Ezechiel Foxcroft (Chymical Wedding, 1690)",
+   "year": 1887,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com/sro/rhr/ (rhr06-rhr15, via the Wayback Machine): transcription of A. E. Waite, The Real History of the Rosicrucians (London: George Redway, 1887), chapters III-V, pp. 65-196; checked against the archive.org scans of the book, items realhistoryofros00waituoft and realhistoryofros00wait. Waite's introductions and notes, the illustrations and Foxcroft's marginal glosses left out.",
+   "sections": 132,
+   "works": [
+    {
+     "work": "chymical-wedding",
+     "title": "The Chymical Wedding of Christian Rosenkreutz",
+     "file": "texts/rosicrucian-waite/chymical-wedding.usfm",
+     "urn": "urn:cts:anagnosis:rosicrucian.chymicalwedding.waite-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "confessio-fraternitatis",
+     "title": "Confessio Fraternitatis",
+     "file": "texts/rosicrucian-waite/confessio-fraternitatis.usfm",
+     "urn": "urn:cts:anagnosis:rosicrucian.confessiofraternitatis.waite-eng",
+     "cite": "cp.vp"
+    },
+    {
+     "work": "fama-fraternitatis",
+     "title": "Fama Fraternitatis",
+     "file": "texts/rosicrucian-waite/fama-fraternitatis.usfm",
+     "urn": "urn:cts:anagnosis:rosicrucian.famafraternitatis.waite-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "waite.en",
+   "name": "Waite (1896)",
+   "group": "Turba Philosophorum",
+   "language": "en",
+   "translator": "Arthur Edward Waite",
+   "year": 1896,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com/alc/turba.htm and turba2.htm (via the Wayback Machine): transcription of A. E. Waite, The Turba Philosophorum, or Assembly of the Sages (London: George Redway, 1896), pp. 1-207; checked against the archive.org scans of the book, items cu31924012366088 and alchemyturbaphil00waitrich. Waite's preface and notes left out.",
+   "sections": 74,
+   "works": [
+    {
+     "work": "turba-philosophorum",
+     "title": "Turba Philosophorum",
+     "file": "texts/alchemy-waite/turba-philosophorum.usfm",
+     "urn": "urn:cts:anagnosis:alchemy.turbaphilosophorum.waite-eng",
+     "cite": "vp"
+    }
+   ]
+  },
+  {
+   "edition": "muller.en",
+   "name": "Müller (1881)",
+   "group": "Dhammapada",
+   "language": "en",
+   "translator": "F. Max Müller",
+   "year": 1881,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com, bud/sbe10 (transcription of The Dhammapada, Sacred Books of the East vol. 10, part 1, 1881), via the Wayback Machine; checked against the scan, archive.org dhammapadacollection01ml",
+   "sections": 414,
+   "works": [
+    {
+     "work": "dhammapada",
+     "title": "The Dhammapada",
+     "file": "texts/indian-muller2/dhammapada.usfm",
+     "urn": "urn:cts:anagnosis:dhammapada.dhammapada.muller-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "evanswentz.en",
+   "name": "Evans-Wentz (1927)",
+   "group": "The Tibetan Book of the Dead",
+   "language": "en",
+   "translator": "Lama Kazi Dawa-Samdup (ed. W. Y. Evans-Wentz)",
+   "year": 1927,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Wikisource, The Tibetan Book of the Dead (1927) (Index:The Tibetan Book of the Dead (1927).djvu), pp. 83-198; pp. 182-193 and 199-209, not transcribed there, transcribed from the scan of the same edition (archive.org the-tibetan-book-of-the-dead_202401); the translation only, without the editor's introduction, notes, epigraphs, plates and addenda",
+   "sections": 452,
+   "works": [
+    {
+     "work": "bardo-thodol",
+     "title": "The Tibetan Book of the Dead",
+     "file": "texts/tibetan-evanswentz/bardo-thodol.usfm",
+     "urn": "urn:cts:anagnosis:bardo-thodol.bardothodol.evanswentz-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "mead.en",
+   "name": "Mead (1921)",
+   "group": "Pistis Sophia",
+   "language": "en",
+   "translator": "G. R. S. Mead",
+   "year": 1921,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "Mead's revised edition (J. M. Watkins, 1921). Sacred-texts transcription at http://www.gnosis.org/library/pistis-sophia/, checked against the Internet Archive scan (pistissophiagnos1921mead).",
+   "sections": 150,
+   "works": [
+    {
+     "work": "pistis-sophia",
+     "title": "Pistis Sophia",
+     "file": "texts/gnostic-mead2/pistis-sophia.usfm",
+     "urn": "urn:cts:anagnosis:gnostic.pistissophia.mead-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "mead.en",
+   "name": "Mead (1924)",
+   "group": "The Mandaean John",
+   "language": "en",
+   "translator": "G. R. S. Mead",
+   "year": 1924,
+   "original": false,
+   "licence": "Public domain in the US; markup CC0 1.0",
+   "source": "The Gnostic John the Baptizer (J. M. Watkins, 1924), Part II translations. Transcription at http://www.gnosis.org/library/grs-mead/gnostic_john_baptist/, checked against the Internet Archive scan (gnosticjohnbapti00mead).",
+   "sections": 271,
+   "works": [
+    {
+     "work": "mandaean-john",
+     "title": "The Mandaean John",
+     "file": "texts/mandaean-mead/mandaean-john.usfm",
+     "urn": "urn:cts:anagnosis:mandaean.mandaeanjohn.mead-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "law.en",
+   "name": "Law edition (1781)",
+   "group": "Of the Supersensual Life",
+   "language": "en",
+   "translator": "William Law edition",
+   "year": 1781,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Mark C. Richards's transcription at https://media.sabda.org/alkitab-12/ccel/b/boehme/way/supersen.htm, collated against the 1781 volume (Internet Archive 10222797bsb, leaves 616–640, pp. 74–97). Both dialogues with the argument.",
+   "sections": 122,
+   "works": [
+    {
+     "work": "supersensual-life",
+     "title": "Of the Supersensual Life",
+     "file": "texts/mystics-law/supersensual-life.usfm",
+     "urn": "urn:cts:anagnosis:boehme.supersensuallife.law-eng",
+     "cite": "cp.vp"
+    }
+   ]
   }
  ]
 }
