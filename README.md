@@ -58,6 +58,10 @@ traditions around it. They are published here so that anyone can read them, buil
 | Pistis Sophia | Mead (1921) | English | 1 | 150 | [gnostic-mead2](texts/gnostic-mead2) | Public domain in the US; markup CC0 1.0 |
 | The Mandaean John | Mead (1924) | English | 1 | 271 | [mandaean-mead](texts/mandaean-mead) | Public domain in the US; markup CC0 1.0 |
 | Of the Supersensual Life | Law edition (1781) | English | 1 | 122 | [mystics-law](texts/mystics-law) | Public domain text; markup CC0 1.0 |
+| The Odes of Solomon (Harris and Mingana) | Harris & Mingana (1920) | English | 1 | 527 | [gnostic-harris](texts/gnostic-harris) | Public domain text; markup CC0 1.0 |
+| Zhuangzi (Legge) | Legge (1891) | English | 1 | 296 | [chinese-legge2](texts/chinese-legge2) | Public domain text; markup CC0 1.0 |
+| Rumi, the Masnavi (Whinfield) | Whinfield (1887) | English | 1 | 180 | [persian-whinfield](texts/persian-whinfield) | Public domain text; markup CC0 1.0 |
+| Swedenborg, Heaven and Hell (Ager, revised 1919) | Ager, revised (1919) | English | 1 | 605 | [mystic-ager](texts/mystic-ager) | Public domain text; markup CC0 1.0 |
 
 ## Books
 

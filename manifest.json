@@ -1656,6 +1656,90 @@
      "cite": "cp.vp"
     }
    ]
+  },
+  {
+   "edition": "harris.en",
+   "name": "Harris & Mingana (1920)",
+   "group": "The Odes of Solomon (Harris and Mingana)",
+   "language": "en",
+   "translator": "J. Rendel Harris and Alphonse Mingana",
+   "year": 1920,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "The Odes and Psalms of Solomon, re-edited for the Governors of the John Rylands Library by Rendel Harris and Alphonse Mingana, vol. II: The Translation with Introduction and Notes (Manchester: University Press; London: Longmans, Green, 1920); the Odes only, read from archive.org's character OCR of odespsalmsofsolo02harruoft (University of Toronto copy) and, for nine Odes, odespsalmsofsolo02unse, collated and corrected against the page images. Without the editors' introduction and notes, the marginal references and the footnotes",
+   "sections": 527,
+   "works": [
+    {
+     "work": "odes-of-solomon",
+     "title": "The Odes of Solomon",
+     "file": "texts/gnostic-harris/odes-of-solomon.usfm",
+     "urn": "urn:cts:anagnosis:odes-of-solomon.odesofsolomon.harris-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "legge.en",
+   "name": "Legge (1891)",
+   "group": "Zhuangzi (Legge)",
+   "language": "en",
+   "translator": "James Legge",
+   "year": 1891,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "sacred-texts.com, tao/sbe39 and tao/sbe40 (transcription of The Texts of Taoism, Sacred Books of the East vols. 39-40, 1891: The Writings of Kwang-dze, Books I-XXXIII), via the Wayback Machine; checked against the scans, archive.org sacredbooksofchi01oxfo and sacredbooksofchi02oxfo",
+   "sections": 296,
+   "works": [
+    {
+     "work": "zhuangzi",
+     "title": "Zhuangzi",
+     "file": "texts/chinese-legge2/zhuangzi.usfm",
+     "urn": "urn:cts:anagnosis:zhuangzi.zhuangzi.legge-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "whinfield.en",
+   "name": "Whinfield (1887)",
+   "group": "Rumi, the Masnavi (Whinfield)",
+   "language": "en",
+   "translator": "E. H. Whinfield",
+   "year": 1887,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Masnavi i Ma'navi, the Spiritual Couplets of Maulana Jalalu-'d-Din Muhammad i Rumi, translated and abridged by E. H. Whinfield (London: Trubner, 1887). Text from sacred-texts.com's transcription (https://sacred-texts.com/isl/masnavi/, read from the Wayback Machine), which is labelled 1898 but is the 1887 first edition's text, corrected to the 1887 print by collation with two scans of it (archive.org cu31924026910251 and in.ernet.dli.2015.31701; masnavi_fixes.tsv). By book, story and section: [book, story, n], the stories as Whinfield numbers them (\"prologue\" and \"epilogue\" where he has them), a section running from one of his headings to the next. His story titles, headings and prose summaries are paratext; his introduction, footnotes, the page references to the Persian text, and the closing Note on Apocryphal Supplements are left out.",
+   "sections": 180,
+   "works": [
+    {
+     "work": "masnavi",
+     "title": "Masnavi",
+     "file": "texts/persian-whinfield/masnavi.usfm",
+     "urn": "urn:cts:anagnosis:masnavi.masnavi.whinfield-eng",
+     "cite": "cp.vp"
+    }
+   ]
+  },
+  {
+   "edition": "ager.en",
+   "name": "Ager, revised (1919)",
+   "group": "Swedenborg, Heaven and Hell (Ager, revised 1919)",
+   "language": "en",
+   "translator": "John C. Ager",
+   "year": 1919,
+   "original": false,
+   "licence": "Public domain text; markup CC0 1.0",
+   "source": "Heaven and its Wonders and Hell, from Things Heard and Seen, John C. Ager's translation in its revised text, as printed by the American Swedenborg Printing and Publishing Society, New York, 1919 (archive.org heavenanditswon02swedgoog). Text from Project Gutenberg 17368, which is this revised text, corrected to the 1919 print by collation with the scan's OCR, every word change read on the page image (heaven_hell_fixes.tsv). Ager's first edition (1900) words many sentences differently; no clean transcription of it exists. By Swedenborg's numbered paragraphs within the chapters: [chapter, n], chapters I-LXIII as 1-63 and the Preface (n. 1) as 0; there is no n. 138 in the print, and 382, 462 and 558 are each printed twice, as [a] and [b]. Swedenborg's footnotes and the Extracts from the Arcana Coelestia, and the bracketed figures of Potts' Concordance divisions, are left out.",
+   "sections": 605,
+   "works": [
+    {
+     "work": "heaven-and-hell",
+     "title": "Heaven and Hell",
+     "file": "texts/mystic-ager/heaven-and-hell.usfm",
+     "urn": "urn:cts:anagnosis:swedenborg.heavenandhell.ager-eng",
+     "cite": "cp.vp"
+    }
+   ]
   }
  ]
 }
