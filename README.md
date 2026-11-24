@@ -59,8 +59,14 @@ traditions around it. They are published here so that anyone can read them, buil
 | The Mandaean John | Mead (1924) | English | 1 | 271 | [mandaean-mead](texts/mandaean-mead) | Public domain in the US; markup CC0 1.0 |
 | Of the Supersensual Life | Law edition (1781) | English | 1 | 122 | [mystics-law](texts/mystics-law) | Public domain text; markup CC0 1.0 |
 | The Odes of Solomon (Harris and Mingana) | Harris & Mingana (1920) | English | 1 | 527 | [gnostic-harris](texts/gnostic-harris) | Public domain text; markup CC0 1.0 |
-| Zhuangzi (Legge) | Legge (1891) | English | 1 | 296 | [chinese-legge2](texts/chinese-legge2) | Public domain text; markup CC0 1.0 |
+| Zhuangzi (Legge) | Legge (1891) | English | 2 | 301 | [chinese-legge2](texts/chinese-legge2) | Public domain text; markup CC0 1.0 |
 | Rumi, the Masnavi (Whinfield) | Whinfield (1887) | English | 1 | 180 | [persian-whinfield](texts/persian-whinfield) | Public domain text; markup CC0 1.0 |
+| The Epic of Gilgamish (Thompson) | Campbell Thompson (1928) | English | 1 | 417 | [mesopotamian-thompson](texts/mesopotamian-thompson) | Public domain text; markup CC0 1.0 |
+| The Descent of Ishtar and Adapa (Barton) | Barton (1917) | English | 2 | 149 | [mesopotamian-barton](texts/mesopotamian-barton) | Public domain text; markup CC0 1.0 |
+| The Story of Etana (Muss-Arnolt) | Muss-Arnolt (1901) | English | 1 | 13 | [mesopotamian-mussarnolt](texts/mesopotamian-mussarnolt) | Public domain text; markup CC0 1.0 |
+| The Meaning of the Glorious Koran (Pickthall, 1930) | Pickthall (1930) | English | 1 | 6,236 | [quran-pickthall](texts/quran-pickthall) | Public domain text; markup CC0 1.0 |
+| The Qur'an (Arabic, Tanzil Uthmani 1.1) | Arabic (Tanzil Uthmani) | ar | 1 | 6,236 | [quran-arabic](texts/quran-arabic) | Tanzil Quran Text, CC BY 3.0, verbatim; source: Tanzil Project, https://tanzil.net |
+| The Yü-li or Precious Records (Clarke) | Clarke (1898) | English | 1 | 236 | [chinese-clarke](texts/chinese-clarke) | Public domain text; markup CC0 1.0 |
 | Swedenborg, Heaven and Hell (Ager, revised 1919) | Ager, revised (1919) | English | 1 | 605 | [mystic-ager](texts/mystic-ager) | Public domain text; markup CC0 1.0 |
 
 ## Books
